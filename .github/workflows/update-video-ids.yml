@@ -30,4 +30,4 @@ jobs:
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/rclaycock/vimeo-video-ids-cache.git
           git add data/videoIds.json
           git commit -m "Update video IDs"
-          git push
+          git push https://x-access-token:${GH_PAT}@github.com/rclaycock/vimeo-video-ids-cache.git HEAD:main
