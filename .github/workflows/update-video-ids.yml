@@ -1,0 +1,26 @@
+name: Update Vimeo Video IDs
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-video-ids:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch video IDs from Vimeo
+        run: |
+          curl -H "Authorization: Bearer YOUR_VIMEO_ACCESS_TOKEN" "https://api.vimeo.com/me/albums/11193887/videos" > response.json
+          cat response.json | jq '[.data[] | .uri | split("/") | last] | {videoIds: .}' > data/videoIds.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/videoIds.json
+          git commit -m "Update video IDs"
+          git push
