@@ -16,15 +16,10 @@ jobs:
         run: |
           set -e # Exit if any command fails
           echo "Fetching video IDs from Vimeo"
-          curl -H "Authorization: Bearer 8ad8207b523b00790698b612a88c5c2f" "https://api.vimeo.com/me/albums/11193887/videos" -o response.json
+          curl -H "Authorization: Bearer YOUR_VIMEO_ACCESS_TOKEN" "https://api.vimeo.com/me/albums/11193887/videos" -o response.json
           cat response.json
           cat response.json | jq '[.data[] | .uri | split("/") | last] | {videoIds: .}' > data/videoIds.json
           echo "Fetched and parsed video IDs"
-
-      - name: Debugging: Check Git Config
-        run: |
-          git config --list
-          ls -la
 
       - name: Commit and push changes
         env:
@@ -33,11 +28,7 @@ jobs:
           set -e # Exit if any command fails
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          echo "Setting remote URL"
-          git remote set-url origin "https://x-access-token:${{ secrets.GH_PAT }}@github.com/rclaycock/vimeo-video-ids-cache.git"
-          echo "Adding files to git"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/rclaycock/vimeo-video-ids-cache.git
           git add data/videoIds.json
-          echo "Committing changes"
           git commit -m "Update video IDs"
-          echo "Pushing changes"
-          git push "https://x-access-token:${{ secrets.GH_PAT }}@github.com/rclaycock/vimeo-video-ids-cache.git" HEAD:main
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/rclaycock/vimeo-video-ids-cache.git HEAD:main
