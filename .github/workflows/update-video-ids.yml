@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: Fetch video IDs from Vimeo
         run: |
@@ -25,7 +27,6 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          set -e # Exit if any command fails
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/rclaycock/vimeo-video-ids-cache.git
