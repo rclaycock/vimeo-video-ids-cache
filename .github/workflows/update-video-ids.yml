@@ -14,48 +14,31 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Fetch all video IDs from Vimeo with pagination
+      - name: Fetch video IDs from Vimeo
         run: |
           set -e # Exit if any command fails
           echo "Fetching video IDs from Vimeo"
-
-          # Initialize variables
-          PAGE=1
-          HAS_MORE=true
-          VIDEO_IDS=[]
-
-          while $HAS_MORE; do
-            # Fetch a page of videos
-            RESPONSE=$(curl -s -H "Authorization: Bearer 8ad8207b523b00790698b612a88c5c2f" "https://api.vimeo.com/me/albums/11193887/videos?page=$PAGE&per_page=50")
-
-            # Check if there are videos in the response
-            PAGE_VIDEO_IDS=$(echo $RESPONSE | jq '[.data[] | .uri | split("/") | last]')
-
-            # Append the video IDs from this page to the list
-            VIDEO_IDS=$(echo $VIDEO_IDS | jq --argjson pageVideoIds "$PAGE_VIDEO_IDS" '. + $pageVideoIds')
-
-            # Check if there's a next page
-            HAS_MORE=$(echo $RESPONSE | jq '.paging.next != null')
-
-            # Increment the page number
-            PAGE=$((PAGE + 1))
-          done
-
-          # Save video IDs to JSON
-          echo $VIDEO_IDS | jq '{videoIds: .}' > data/videoIds.json
+          curl -H "Authorization: Bearer 8ad8207b523b00790698b612a88c5c2f" "https://api.vimeo.com/me/albums/11193887/videos" -o response.json
+          cat response.json | jq '[.data[] | .uri | split("/") | last] | {videoIds: .}' > data/videoIds.json
 
       - name: Minimize JSON output
         run: |
           jq -c . data/videoIds.json > data/videoIds_min.json
           mv data/videoIds_min.json data/videoIds.json
 
+      - name: Configure Git user
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Pull the latest changes to avoid conflicts
+        run: |
+          git pull origin main --rebase  # Fetch and rebase with the latest changes from the remote
+
       - name: Commit and push changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/rclaycock/vimeo-video-ids-cache.git
           git add data/videoIds.json
           git commit -m "Update video IDs" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/rclaycock/vimeo-video-ids-cache.git HEAD:main
