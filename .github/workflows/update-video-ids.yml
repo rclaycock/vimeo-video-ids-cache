@@ -31,17 +31,14 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Stash any local changes
+      - name: Commit any local changes before pulling
         run: |
-          git stash || echo "Nothing to stash"
+          git add .  # Stage all changes
+          git commit -m "Auto-commit local changes before pull" || echo "No changes to commit"
 
       - name: Pull the latest changes to avoid conflicts
         run: |
           git pull origin main --rebase  # Fetch and rebase with the latest changes from the remote
-
-      - name: Apply stashed changes (if any)
-        run: |
-          git stash pop || echo "No stashed changes to apply"
 
       - name: Commit and push changes
         env:
