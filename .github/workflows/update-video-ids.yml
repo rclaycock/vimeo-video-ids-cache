@@ -31,18 +31,6 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Stash any local changes
-        run: |
-          git stash
-
-      - name: Pull the latest changes to avoid conflicts
-        run: |
-          git pull origin main --rebase  # Fetch and rebase with the latest changes from the remote
-
-      - name: Apply stashed changes
-        run: |
-          git stash pop || echo "No stashed changes to apply"
-
       - name: Commit and push changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
