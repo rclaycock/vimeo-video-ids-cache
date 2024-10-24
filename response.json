@@ -220,7 +220,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "bdffe386aafd4d42353784f2a1e8ac9bbeb18295dcd520548a40eda089bb5309_1729750656"
+                        "resource_signature": "d9b3f4f5988667af0f1122f749e7e86a9a8f932dcd7cba181931640cd2c8b784_1729772451"
                     }
                 },
                 "interactions": {
@@ -238,6 +238,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/1018100840",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -672,7 +678,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "08087e1a55e5160bbe270d06e13bd294279aa648b32ec372828d736aca2f9489_1729750656"
+                        "resource_signature": "c26513302113f6331083dd669e71af9adf4c38dcab50ccaef94de22ac701cee3_1729772451"
                     }
                 },
                 "interactions": {
@@ -690,6 +696,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/999317006",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -1124,7 +1136,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b4346dd4588622d572f3f78b1522a329c03d9e8cef3e77f3603b78712225fb95_1729750656"
+                        "resource_signature": "01c8f766450a39ce257cc140f9ebcb77a27350d14707eb82035e3721ad3fe243_1729772451"
                     }
                 },
                 "interactions": {
@@ -1142,6 +1154,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953760003",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -1576,7 +1594,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "395799a6e3e7ea25aee6721972a08ee16f87b790fa2607c458f424bc964e9b16_1729750656"
+                        "resource_signature": "d3f1d51b690e1897a2b18b8d31712f9d34790157d5f505dc691bf4876eb96081_1729772451"
                     }
                 },
                 "interactions": {
@@ -1594,6 +1612,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759949",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -2028,7 +2052,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b07885233e21f02c395ac94acea11f0418b1ee9854e6fd2eaf03a6ceb5a0b3e4_1729750656"
+                        "resource_signature": "02fe4df019d65e6b7c11ed09acc1a2ddcbe74a454acbdddad95763ed8d8ee111_1729772451"
                     }
                 },
                 "interactions": {
@@ -2046,6 +2070,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759893",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -2480,7 +2510,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "fbea1f9d2beb66b9ccdc402afd51dd372fa5c4c3e8711b582491acbdd368cc95_1729750656"
+                        "resource_signature": "e22e58d9294281c3996fd0519681d57b25c0ad0aadaa8768c08c60bf37b758c5_1729772451"
                     }
                 },
                 "interactions": {
@@ -2498,6 +2528,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759842",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -2932,7 +2968,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0b411863d63779f332f6cca78380203fd1043855c742d5508a58162bb362c6a9_1729750656"
+                        "resource_signature": "91471638285019be6dbc3cd464c1698ce0da70486aadef1b31961e606a68e7f1_1729772451"
                     }
                 },
                 "interactions": {
@@ -2950,6 +2986,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759790",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -3384,7 +3426,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "658cc64fc4d845e5b34ebc89afdafa2a63e4ede2112488b356b1321863d29afc_1729750656"
+                        "resource_signature": "f238a0e9685460b2a2a028c679c3d9d8baec3db61d9b9f71817886a20f056830_1729772451"
                     }
                 },
                 "interactions": {
@@ -3402,6 +3444,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759741",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -3836,7 +3884,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "662d23ac9b36fc0e9e8de5dddcc90e51d65aeb8c5fb85067e4aff1af882eeaeb_1729750656"
+                        "resource_signature": "0912fc646186ce596c8ebe5186daf428103ce73d825ea3f31b1031c1d49059f5_1729772451"
                     }
                 },
                 "interactions": {
@@ -3854,6 +3902,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759696",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -4288,7 +4342,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "74c0cb83055e3b68ca89294f835a755a084720804b83b7697f9c70f3c3b4486f_1729750656"
+                        "resource_signature": "bb775171430cc391d83084b5996b98f78694ecf543e8fcdd9f4b163a79242c06_1729772451"
                     }
                 },
                 "interactions": {
@@ -4306,6 +4360,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759643",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -4740,7 +4800,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "2f4e4d8c49836b0ad5151a562601fb871d3b8fb58c8223a367179418e3be1752_1729750656"
+                        "resource_signature": "78c1df102421ca72fac25d9bee9a5555fe10049a93c284982ca2132b2b07c36e_1729772451"
                     }
                 },
                 "interactions": {
@@ -4758,6 +4818,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759597",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -5192,7 +5258,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a2f17097c903b4110d921f1a317ece220eded3ffd08eb1fdc25ce0e16c0085ce_1729750656"
+                        "resource_signature": "dc9efc757303db75732d4b10d98d572bbb2e46381d28a08d2b86d77dc1dbda44_1729772451"
                     }
                 },
                 "interactions": {
@@ -5210,6 +5276,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759523",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -5644,7 +5716,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8bcd0cba9fdef158f236fca561a85324436546c34b43fc76730c2affaaf4a526_1729750656"
+                        "resource_signature": "560f270393c4b219c228042d995f096dc0fd093670fa5608f8d20db452e80dc3_1729772451"
                     }
                 },
                 "interactions": {
@@ -5662,6 +5734,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759468",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -6096,7 +6174,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "50c30f8bd18fc31bbedd05ef48c845acec3698ce5f71f7bbf1d4704f7aef0a8e_1729750656"
+                        "resource_signature": "b055fb4a22e0e0c60d2c2b4d8ccb0002676de660aa4cc316173fd0e92a215340_1729772451"
                     }
                 },
                 "interactions": {
@@ -6114,6 +6192,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759411",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -6548,7 +6632,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4d4f3dd9a82dce2db52e06574409d90a549153c36e22bbbf75830597d2f83327_1729750656"
+                        "resource_signature": "a72fddddc291930f84392295767ff6ebfcfdb79bdc6a84027f616b404fdc2502_1729772451"
                     }
                 },
                 "interactions": {
@@ -6566,6 +6650,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759331",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -7000,7 +7090,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "412e8f02f3ef9264d3833af3d3ed3376049a166b29f4a77e73e7e2b167b4c1bf_1729750656"
+                        "resource_signature": "1c45c2dcfa13cd555734038c75a841fff98293cca68fb329bf7387ac44d72f71_1729772451"
                     }
                 },
                 "interactions": {
@@ -7018,6 +7108,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759276",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -7452,7 +7548,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e2f68a1da9f54af97944c3c8a37badfa5fe108da1945d425ad294b22b3abc3f9_1729750656"
+                        "resource_signature": "afddf976889ae218e6bf2efcfaebfaccb4be131282ebcb23a35aef7aba4da947_1729772451"
                     }
                 },
                 "interactions": {
@@ -7470,6 +7566,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759230",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -7904,7 +8006,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "378e90709ffff7547a3c7a0070a1dee1eb4f0da8d1e0ae7582277a8e367cbdf2_1729750656"
+                        "resource_signature": "db2966712b46b6932ac83f2fed9e97bda4de665967f219056367358d31121862_1729772451"
                     }
                 },
                 "interactions": {
@@ -7922,6 +8024,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759090",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -8356,7 +8464,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7e0c6bd09110d5498fbff6600a82091c57bbaa14d918c206b5731a087eb20613_1729750656"
+                        "resource_signature": "6ea5a9c386153922e19a87bc1f59a845edb292985e9b3b8528172a13ed590337_1729772451"
                     }
                 },
                 "interactions": {
@@ -8374,6 +8482,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953759029",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -8808,7 +8922,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "140b4b01fcc03c65e3284f154e4d5c6d70eac628e7bf3e39445067ddec6c71d5_1729750656"
+                        "resource_signature": "4dacc88a34699824c2d5a960d627a0bd75ca43b013c3b28d77d9b01c782cbc04_1729772451"
                     }
                 },
                 "interactions": {
@@ -8826,6 +8940,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953758935",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -9260,7 +9380,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "5e7b3c00b833dd1baf1ff25ba10b086142b549f43dece824fe6f7b8e403b0a2a_1729750656"
+                        "resource_signature": "2754a5e985c9f89269f83eaca462902bd6747befbd41ff971e057d1b1b7a71c6_1729772451"
                     }
                 },
                 "interactions": {
@@ -9278,6 +9398,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953758897",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -9712,7 +9838,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a2434846a51824197e1ac4f6514f1319c259ebedeed96fdb5bc1a6b4741f8a1f_1729750656"
+                        "resource_signature": "48269995638fe926a1e1b27bb3601c3a1baa074d319faec0ccd9fd4d2926bb09_1729772451"
                     }
                 },
                 "interactions": {
@@ -9730,6 +9856,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953758846",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -10164,7 +10296,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "71182604c0930c440d6a7d9b8f6ec00c57532c7fa386306a610e95077a6edbd0_1729750656"
+                        "resource_signature": "959935543af836282a3d540f0905a3ee2e9bd9733db7945ad073195adcda1238_1729772451"
                     }
                 },
                 "interactions": {
@@ -10182,6 +10314,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953758763",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -10616,7 +10754,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "425c2be934c6fe44f12cbf0707fe3dffbb6f21997a78e1890cbc2640d98914fd_1729750656"
+                        "resource_signature": "3bbab343bcc49eca94d8bbe379add68aa4957399d275dcc2096c0939ed9eeace_1729772451"
                     }
                 },
                 "interactions": {
@@ -10634,6 +10772,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953758621",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
@@ -11068,7 +11212,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "93b776d2b473ee823bcedce496066c8fe86a616bae6dfa46a988ccf7b176cd65_1729750656"
+                        "resource_signature": "15019765e636e1509429e42735f90527f10e804b50928de420cca30cd1a7169a_1729772451"
                     }
                 },
                 "interactions": {
@@ -11086,6 +11230,12 @@
                             "causes harm",
                             "csam",
                             "voting misinformation"
+                        ]
+                    },
+                    "can_update_privacy_to_public": {
+                        "uri": "/videos/953758540",
+                        "options": [
+                            "PATCH"
                         ]
                     }
                 },
