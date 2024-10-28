@@ -220,7 +220,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "614c09c7f75edeee64040361ab77235427d1c94ec830644059545216287d7ab6_1730076516"
+                        "resource_signature": "54da679f4de8203c930234f3bccba4e6a3fc8ee72e61333cbf92a222ce9e9bae_1730096301"
                     }
                 },
                 "interactions": {
@@ -678,7 +678,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "9d4203c215eb3e2c49e788b49158b4c0146b6a9481e90bbecb25bd58890bc253_1730076516"
+                        "resource_signature": "4fe929304abbb4ed0363224d71a32403d6b4a48dd9b336508b47d0a34aa2b617_1730096301"
                     }
                 },
                 "interactions": {
@@ -1136,7 +1136,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a3838fbc551b57a77ac994510b95826244def0cd4bd9a1ca18e64d96614ade70_1730076516"
+                        "resource_signature": "f7d34c12fbdcf6a907fabc2f27c810146e378ee20aca348da3a8f1b7d0fd305c_1730096301"
                     }
                 },
                 "interactions": {
@@ -1594,7 +1594,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "056848791efe43eddc8b1a45e522dd79e0ff9a6a6e85901fb6ec3bd386766654_1730076516"
+                        "resource_signature": "3ad54364c6ca29c1f4d6c061db212dad3201acc2cc7398f38083b52e5fa1f9c3_1730096301"
                     }
                 },
                 "interactions": {
@@ -2052,7 +2052,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "2e5839f3d33acb9ad1677795467296280d91cc573f5d4131af001b0e5817c63f_1730076516"
+                        "resource_signature": "82eea72811634041afcec0c90e90ff30f59f04cdbe5bb79567f60f84fde02bba_1730096301"
                     }
                 },
                 "interactions": {
@@ -2510,7 +2510,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d6bb1babbb44ad6580d63ad4b916c9f2f65674ee5cfcb8e121985acd8d2df429_1730076516"
+                        "resource_signature": "ccad420ac9ae583b2891fdd1108aa40338d32ff2a92114df686791518e4938d0_1730096301"
                     }
                 },
                 "interactions": {
@@ -2968,7 +2968,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "599bf4bef366e9f6cc25b90c50d4ef95c2245e37d9b80c141f0fce229291db4d_1730076516"
+                        "resource_signature": "76d741d1717199adc80327ddbbe3e750ad4004abe622612e7d3d227de3ae3c38_1730096301"
                     }
                 },
                 "interactions": {
@@ -3426,7 +3426,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0e151004d69a72e2164110f66d823f3abc2f0ce7a8fa4041b87f0eb9442c42e4_1730076516"
+                        "resource_signature": "92d332b4545d5c7e26fc3cf2d0b59b52fe92ae8a985970af768b92302628938b_1730096301"
                     }
                 },
                 "interactions": {
@@ -3884,7 +3884,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "838f6e94ea344e31fbcc2de6a3bac2005db3d92489003066bce4b960e71dbf14_1730076516"
+                        "resource_signature": "c4aa52bd4633c68dbc70b1629fc67a5e837e0b9bd54b2ec9687bb1d719fdaaf6_1730096301"
                     }
                 },
                 "interactions": {
@@ -4342,7 +4342,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "98e127d51c712f8ff3ab652d30f749b3f15bc0467ff5244f068afbaf16010817_1730076516"
+                        "resource_signature": "590eed6aaf8de7bd6a2020f71fa756771922e015887a5261b7ecd7f87fc94d9c_1730096301"
                     }
                 },
                 "interactions": {
@@ -4800,7 +4800,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e0bbefea830a60f3683efad6bd8bf5cde1904ec2ece4fb35dde80fc9c5b973ff_1730076516"
+                        "resource_signature": "1dc7ac87569991a6d3456edcd6ef308eb1c6e2c64f219dc7759aec42a51acf22_1730096301"
                     }
                 },
                 "interactions": {
@@ -5258,7 +5258,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e9fe6a50e716970a3f0479519feb4b5db6bd624fa4caf998a7623b9d9f4d4eca_1730076516"
+                        "resource_signature": "c0b3b8f3b241c898044b519ddf5d1ce7b4a214333e79d91a6850d3464b0e7041_1730096301"
                     }
                 },
                 "interactions": {
@@ -5536,7 +5536,7 @@
                 "interactive": false
             },
             "created_time": "2024-06-05T00:09:52+00:00",
-            "modified_time": "2024-10-25T22:08:57+00:00",
+            "modified_time": "2024-10-28T01:24:57+00:00",
             "release_time": "2024-06-05T00:09:52+00:00",
             "content_rating": [
                 "unrated"
@@ -5716,7 +5716,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "20a42b6e371d95d192d37ee2d27fefd4451d82c3e4f2f830787788e5b740b270_1730076516"
+                        "resource_signature": "d5f81c80d9267013f670fedab200c0abec279e7af6835a2b1593b50b4d42cfb5_1730096301"
                     }
                 },
                 "interactions": {
@@ -6174,7 +6174,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a36957d07d5fca7e7423778be2e5e155ec3981477aa659e4e33aba9306c2c717_1730076516"
+                        "resource_signature": "7ef400a53376fee3181a0cb65462da1495b768ed0a685f171a37321dcd30a5ad_1730096301"
                     }
                 },
                 "interactions": {
@@ -6632,7 +6632,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a700912314fae75c50a7cb3ecb5061b52173124914aa6553317418d9e84421c0_1730076516"
+                        "resource_signature": "a5550f7d252cb80b2425d9bdf6e77dba02a52b8664d2fd28f4965676a6e906be_1730096301"
                     }
                 },
                 "interactions": {
@@ -7090,7 +7090,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "eeeff6f19b4a093d47d7978a99a3d40dd869baae38bb8e10145789b1e59690c5_1730076516"
+                        "resource_signature": "51585aa2fcbe26a8ed8e2fc1b5f229212ea1dcf08082f0f682486756ca77d2bf_1730096301"
                     }
                 },
                 "interactions": {
@@ -7548,7 +7548,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e1de621bc95905bcfbe0b70b80c22ac62d511eb8c12af8b1cacea4faa1761bce_1730076516"
+                        "resource_signature": "ff8431fc897697e07eb0371b45ac2d9c417c2d7e58cd44ffc30b5224fac4e198_1730096301"
                     }
                 },
                 "interactions": {
@@ -8006,7 +8006,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "eb040cf1d34cf259ea05bfe1856f13ac537c327e84564ba2bbe53e29f66a66d2_1730076516"
+                        "resource_signature": "db8be79e167fed0dd78d6ba208c94db9b572c146df095eaa87217b7e4553d0e1_1730096301"
                     }
                 },
                 "interactions": {
@@ -8464,7 +8464,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "5ca0a7b3547eb566dd193825c17837542cc1f504633061581d073aae7cf15e17_1730076516"
+                        "resource_signature": "2a3bee379dc294d3f684667718454c891e6b7ccf78efb3d5b18cc9810617c5b0_1730096301"
                     }
                 },
                 "interactions": {
@@ -8922,7 +8922,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c9aaa9b8165359ece09007e02b45ad34957fbf68b90633a71117d6fe9e95742f_1730076516"
+                        "resource_signature": "ff60c79ac266ce538d12a05ef9d46158bf6349259fbb7c9adb2b8f839f30c3a8_1730096301"
                     }
                 },
                 "interactions": {
@@ -9380,7 +9380,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "98fcc4f361fe515b0800cab0e209c90cb03c4b81948b39cb88e3b850b50ef55f_1730076516"
+                        "resource_signature": "683f4075497f04acc766daf1979d161768a8009e7dc43e6720656e899404a4c8_1730096301"
                     }
                 },
                 "interactions": {
@@ -9838,7 +9838,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "dbbce06101d6667c8edc8057ffa43f809227c208bf6e178a14f5ef95194fcd1f_1730076516"
+                        "resource_signature": "6e7f8833fb18b621f57d1648c8eb593fa618b394d5481a415c520a08bfb65940_1730096301"
                     }
                 },
                 "interactions": {
@@ -10296,7 +10296,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b648b1e096d72110579d5559aeacec2530e35085bdff2a3965372f35e6437e4d_1730076516"
+                        "resource_signature": "33e53156f43fd39ce1d21caae5a005b2e7f01ba2f25b7e3eab60cc936be17486_1730096301"
                     }
                 },
                 "interactions": {
@@ -10754,7 +10754,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3db08c2b88c220c2f437757677ff6c1668f8dff8fb82442240d243bfbc44a192_1730076516"
+                        "resource_signature": "68e366fcb137d3118139bfb9114ec486514f49e3340cae4e9e3994d9d3eaadcf_1730096301"
                     }
                 },
                 "interactions": {
@@ -11212,7 +11212,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f4f255dac3f5e204ae11702fb8af10321379dabac94e57bdda38b537353fa7c1_1730076516"
+                        "resource_signature": "bf7756fcd5f9a43dae328680f9b65ae9acc658dcbf6be3de0c5a824912ade705_1730096301"
                     }
                 },
                 "interactions": {
