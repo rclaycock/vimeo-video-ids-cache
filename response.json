@@ -220,7 +220,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8543b72bad25c11df00af9953828f455ef6bdadef23ce096b0b647590972b903_1732169877"
+                        "resource_signature": "397c4d18aca0da40d62f916ba15661812b551e3955bb82185e157cc5d84354db_1732191703"
                     }
                 },
                 "interactions": {
@@ -450,6 +450,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -678,7 +679,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e2ef014525f13fe3eb581013fadd9264bb76a8e784fb01ca3083290a5f7cb916_1732169877"
+                        "resource_signature": "64e0b5877dd0f0d56ea6231839e676de0ec059b7861897078d555ad62a34c7f6_1732191703"
                     }
                 },
                 "interactions": {
@@ -908,6 +909,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -1136,7 +1138,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "1d96786466842ac38e05f8a8b8ac1667b6cb23451988fdfc18a0bc5074ae6748_1732169877"
+                        "resource_signature": "b5a6626b5c564a1616cf37a14c1bb46927a41c7bbe6ce553e048021740c1e586_1732191703"
                     }
                 },
                 "interactions": {
@@ -1366,6 +1368,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -1594,7 +1597,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "702fe47e62df0989973c3254d4eb4fb2df98cffd9ba5443dfde937fee94454cf_1732169877"
+                        "resource_signature": "e0046e60682d8ac609da2345ecefa58f427233e2a09a529e2552d95fd08da9df_1732191703"
                     }
                 },
                 "interactions": {
@@ -1824,6 +1827,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -2052,7 +2056,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "986b487ce25e3cb87b0f1da5d42d0c23e2a3e973644ec91dbdccfae5acfd5338_1732169877"
+                        "resource_signature": "a6f6a1b356cd0c04b21449708259c6d230be493c61c962af4146be66269197e1_1732191703"
                     }
                 },
                 "interactions": {
@@ -2282,6 +2286,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -2510,7 +2515,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c58e0aeb9f964db1b19f5392d1cf3a9a44005e75bc37abd33dfad5744eb4777b_1732169877"
+                        "resource_signature": "f160707405f4590a2e3c688000f75f72b9ae9a5a462712e024460a6578a77830_1732191703"
                     }
                 },
                 "interactions": {
@@ -2740,6 +2745,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -2968,7 +2974,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "fee2e2539fee708e112f4fe89582f91b69bf7debbcbf72525c83c1a1ee419287_1732169877"
+                        "resource_signature": "4c5dddf789f67b550a4fd2fee4c7d14e7d4d0deb5907403f83020b7699102d9f_1732191703"
                     }
                 },
                 "interactions": {
@@ -3198,6 +3204,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -3426,7 +3433,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b3e104b951ab9593eed6e5350369ea44f3e1bf5541e8c216dba8f8b799e985eb_1732169877"
+                        "resource_signature": "b06ab8a11897d7cd9456153bf943287edcf38b631ff7a01a29b5a8cf51a88fa6_1732191703"
                     }
                 },
                 "interactions": {
@@ -3656,6 +3663,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -3884,7 +3892,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "19ce78e20d005bff98de430bbce81dcfb4c18bc35be80e89f1b65dc9acc44d61_1732169877"
+                        "resource_signature": "c21137b1a4f829dc39cac227f9019336b0f109d1d69d6f381e67787835b300de_1732191703"
                     }
                 },
                 "interactions": {
@@ -4114,6 +4122,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -4342,7 +4351,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ddba0a195166f460405b86a31dfbc490949e6f2c31e80ba9e3ad521571e52fc7_1732169877"
+                        "resource_signature": "f6bcef20adfa4932c8522b32fcf29a497a665e62f74f889f6cece396792be107_1732191703"
                     }
                 },
                 "interactions": {
@@ -4572,6 +4581,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -4800,7 +4810,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ec678a373830ca242c56ab82cb9148542f87ecef369c06811e37710ebaa01bb7_1732169877"
+                        "resource_signature": "6ab22ed6dc1dff29ba680189f5eae95198ef46dc0a50a084bf0d0a9936994e5e_1732191703"
                     }
                 },
                 "interactions": {
@@ -5030,6 +5040,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -5258,7 +5269,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c28b63c9ea419250ac00c437eafc07888a32d83284aca507c0464333b44d1379_1732169877"
+                        "resource_signature": "7e61944f581d3dfe7a0024c86d4c3707eebf51cfefad3a9b34c403f950be7b5c_1732191703"
                     }
                 },
                 "interactions": {
@@ -5488,6 +5499,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -5716,7 +5728,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f5daf02eddebde9bb140fd48453693dece51f04f59096f7728451bbaae46b7c8_1732169877"
+                        "resource_signature": "bc9538c86f527800a559211ea43cd21fc7f60d500acda93af4a49cbdce3fa32c_1732191703"
                     }
                 },
                 "interactions": {
@@ -5946,6 +5958,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -6174,7 +6187,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "2ac3ebc1b469cd9de6e80a554d95eb1e2e533380c44f70b3d7a01fde588ef4bb_1732169877"
+                        "resource_signature": "0408b1559ba41aa8ae3468aae97cb3fc4e5359e947a3b11b4e34abc21f793acd_1732191703"
                     }
                 },
                 "interactions": {
@@ -6404,6 +6417,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -6632,7 +6646,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ed9e0e82741e01fc831c99879a6e12c3f3168c0bf7abecfdff3c4615d7b4bdd1_1732169877"
+                        "resource_signature": "812d35adc98d0a2aeb55411c36e308b707e015def38e60946bb6f4d6dc3c8c01_1732191703"
                     }
                 },
                 "interactions": {
@@ -6862,6 +6876,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -7090,7 +7105,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f9d29835d386424ded648fcc83f8e829aafffe5f2b2b6e32d8eb02063ec0a9ba_1732169877"
+                        "resource_signature": "2a69d8fb3717743b16a576de6d2ede51833c31659a0718c998734b51b2eb3f6c_1732191703"
                     }
                 },
                 "interactions": {
@@ -7320,6 +7335,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -7548,7 +7564,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "525eb3c571a6fa3c2befb78e8f4f84ff79d1e44e9f025ba8282fe0bb142d1108_1732169877"
+                        "resource_signature": "bef87637a12d7f7a772d063dce5dc15e3593c438c11f06753ee915a6c184446a_1732191703"
                     }
                 },
                 "interactions": {
@@ -7778,6 +7794,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -8006,7 +8023,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "afd3b05d43433e2c014c8d0563db67a77aed240d726298499ec699043677f42f_1732169877"
+                        "resource_signature": "c11430375dadf5b3e83069d21e0e1e055abe8ae8ef6223d6afb8812ac791945d_1732191703"
                     }
                 },
                 "interactions": {
@@ -8236,6 +8253,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -8464,7 +8482,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "9f88eca969a052b5121553c419c82bdf251c0d791f7f6d4b7094c4ea7e50b3bb_1732169877"
+                        "resource_signature": "e0e4b32d50f1bb473bdf9445cb97ab7c4c15fa3e130c1bdd31bf3bdfda4ba9fa_1732191703"
                     }
                 },
                 "interactions": {
@@ -8694,6 +8712,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -8922,7 +8941,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c591f7ee8548c4b61b3127c5508433eb5dee629a4cf7ca6227cfbc33f1337dd2_1732169877"
+                        "resource_signature": "0cd5d035dc90e40868eef9ec0bc621b2a88e7df1b5d0a7899c0581e64e1861de_1732191703"
                     }
                 },
                 "interactions": {
@@ -9152,6 +9171,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -9380,7 +9400,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "55ea39e5567e3b16eeec4a40997c0b3567a7654e61cba921d391200fc09633ba_1732169877"
+                        "resource_signature": "de0f6a45e7f07cfadc8d7b4ca64ae7964d82ba6f22d392fe77f7a09c23139c8f_1732191703"
                     }
                 },
                 "interactions": {
@@ -9610,6 +9630,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -9838,7 +9859,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "366547e52b3b16bae261934f50c99e5da42cdda7f0c27ddf7c694ca3cc8afea7_1732169877"
+                        "resource_signature": "7b8e0256c9b387b6f06db16e1ac31d0a86189d9023bb79fd788954ebce9eff40_1732191703"
                     }
                 },
                 "interactions": {
@@ -10068,6 +10089,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -10296,7 +10318,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b6b102b60989d2fdd3087a8ac0478c90896e93c0d662b81ec6b1aef129be85e5_1732169877"
+                        "resource_signature": "9c47ae3987dd199fad605751cc231ffde275d8f58f9e4dd5c128b19289726def_1732191703"
                     }
                 },
                 "interactions": {
@@ -10526,6 +10548,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -10754,7 +10777,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a293092a0ca7e26081dcbdce64c223ed414c98999782b8261cb4c5f813583fcf_1732169877"
+                        "resource_signature": "ea0eb3802e96a3dd4865133e845a661154e14a25b26e4e58a25935dd6f6fe4d3_1732191703"
                     }
                 },
                 "interactions": {
@@ -10984,6 +11007,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
@@ -11212,7 +11236,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ed0c92fec607c0ba53412671d50a21a1d08a4f3210843451949c39a6f8391479_1732169877"
+                        "resource_signature": "8dc948c9c2f1686c960be4deef9180a36cffcf11b91e93e44c8381e296266b6f_1732191703"
                     }
                 },
                 "interactions": {
@@ -11442,6 +11466,7 @@
                 "skills": [],
                 "available_for_hire": false,
                 "can_work_remotely": false,
+                "profile_discovery": true,
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
             },
