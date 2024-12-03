@@ -220,7 +220,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "249f97370f2739c2d534771e9e9588e50d20e410134cb707322b7be038171a61_1733163463"
+                        "resource_signature": "9da19ba4f1c7022c817d4e25063e7aee17c2b9bd681da8cba70953b44481a342_1733187059"
                     }
                 },
                 "interactions": {
@@ -258,7 +258,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -678,7 +679,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "00236c5b74ebde2e3f34e43e69cf9a5dbf1cc013854f51436a68a573b8b2c984_1733163463"
+                        "resource_signature": "7267003de473300d26124641bed10335186e278450501d4c33482b3fbf968a64_1733187059"
                     }
                 },
                 "interactions": {
@@ -716,7 +717,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -1136,7 +1138,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a7d4aa93722f41466a2c885c3657ac73c72feb5f3f0d22c1437dc5beed07e094_1733163463"
+                        "resource_signature": "94568e0adcb07d0cba34b6dba46e16d668e6ce47797a458709ee96606521174f_1733187059"
                     }
                 },
                 "interactions": {
@@ -1174,7 +1176,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -1594,7 +1597,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "fce18a9d91075a1e0b0ec8083816b828ed943f23edfa14b14449f66ee6772d4d_1733163463"
+                        "resource_signature": "dee91fd4a9a8e60677919b8f92afe121c2d412108d28e156d7f39efa5b85aa42_1733187059"
                     }
                 },
                 "interactions": {
@@ -1632,7 +1635,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -2052,7 +2056,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0fadbda0d173b4a7aee4311f790ab52d0a1b5f05baabfa05220f0d5252a698fc_1733163463"
+                        "resource_signature": "36a0ef135d9ce94ec42fc580a7e96760e4c4cdb0d2ec39f08ffa4e845e32535b_1733187059"
                     }
                 },
                 "interactions": {
@@ -2090,7 +2094,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -2510,7 +2515,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8145ea9ad1bc4dd68f4c0646fc32683a04b38f0ec8086abec39d1b2c7a41141f_1733163463"
+                        "resource_signature": "6f0bd898161d28490915781bdbb043a7480eabb1b62a278fa98baa81d7adff38_1733187059"
                     }
                 },
                 "interactions": {
@@ -2548,7 +2553,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -2968,7 +2974,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8538ae068069c49a1e46019700fbd8f4b7bf003a8d9ae428e1545525c8d5d5da_1733163463"
+                        "resource_signature": "95b5fb0fccd78ce5a54f1921caef6063c7792bc19e28dea7a4e0f8742791a2c7_1733187059"
                     }
                 },
                 "interactions": {
@@ -3006,7 +3012,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -3426,7 +3433,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "417b34c7a10f57b4cd21ff994f6eca7bba05346af62549271eb0ed7e47e77978_1733163463"
+                        "resource_signature": "13d6cea79c4b6e83ab3372d059cfda66a4cceabe9e96f1249ba9d2ae8dcd2544_1733187059"
                     }
                 },
                 "interactions": {
@@ -3464,7 +3471,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -3884,7 +3892,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c96fe1c7c718ff2cf85cbcad94ff911e5c3b20aad00b650576911eae5929126e_1733163463"
+                        "resource_signature": "faf08328abd900b0ddebf8472f01ae1591a8a8333ace8d9c4f2f1ee28eccee02_1733187059"
                     }
                 },
                 "interactions": {
@@ -3922,7 +3930,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -4342,7 +4351,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "814bde302dc1e1e62100b600ea2afeec9fba962bb02d946dbb05eaf094b36ae2_1733163463"
+                        "resource_signature": "631305546931f72eadf8af4ec919b586da6bb4ad49e701e4633bee97236270cd_1733187059"
                     }
                 },
                 "interactions": {
@@ -4380,7 +4389,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -4800,7 +4810,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ac2b73546397ef13855a1c7b18d35ec4a3014f2bae39bcc3dd2e53bf7ba7b0a4_1733163463"
+                        "resource_signature": "88d0395256f0aea913b66afdc1b43e7a70a65fa75d5e41706b927f8e25e3bf25_1733187059"
                     }
                 },
                 "interactions": {
@@ -4838,7 +4848,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -5258,7 +5269,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3abf18dfb243b2a9387987d7cca53205a0387bdfc5cb7103c9535332d4ced628_1733163463"
+                        "resource_signature": "d39f8fb9488440cab3e0bae99476ad673aff2d0f76c4b372de6fc8af1eff30c8_1733187059"
                     }
                 },
                 "interactions": {
@@ -5296,7 +5307,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -5716,7 +5728,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ad5b7373a1dca0b2c0deb52c303490b4c6defe2cf33bd5fccecfe6e37f84320f_1733163463"
+                        "resource_signature": "4d9e661d422edfa9bc3f7fa7400bc53b59e31aa907b47dfa0a0c5c0d94458e6e_1733187059"
                     }
                 },
                 "interactions": {
@@ -5754,7 +5766,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -6174,7 +6187,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f51f12a828f4644cba64603d0824db967e4a4c3698167ecf008a5bd717cf3557_1733163463"
+                        "resource_signature": "9f07955517b103f6c1cd27a823870449062cfd5a7703ef55f289a3fa2b2afac3_1733187059"
                     }
                 },
                 "interactions": {
@@ -6212,7 +6225,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -6632,7 +6646,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "cf2a8f8fb4e5b558903902cb25e655643bd525b0e70f207f84e929fbd1d92359_1733163463"
+                        "resource_signature": "957d8890fc9ba1acfe096e36f3ce8a88d020d7bea6a5bbd8dd71c2880b584dfd_1733187059"
                     }
                 },
                 "interactions": {
@@ -6670,7 +6684,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -7090,7 +7105,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c124c4f1f000ae5593b001d43de8f2983dd9e084b43703d3a302719fc4908905_1733163463"
+                        "resource_signature": "0cd40763dd6f7e9c79a6013fe99d4f7da3c381a642af2f08a3770ceb2568945d_1733187059"
                     }
                 },
                 "interactions": {
@@ -7128,7 +7143,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -7548,7 +7564,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "218d3439bfc8f693a88be8a2fca3b17e1e137adad89239b734ebf70fb3c798a0_1733163463"
+                        "resource_signature": "ba7d44a6da356e4a196f82b0e7632a21d595a1f8b898d42bf467880b71ef55ee_1733187059"
                     }
                 },
                 "interactions": {
@@ -7586,7 +7602,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -8006,7 +8023,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "88f4e37e10e359c0fb8ca55a52c693e251ec260587bf392d12ed8565887e323e_1733163463"
+                        "resource_signature": "b0ac5fbf61fd02ff8e56569965263dc74b26c0a7989f173607fbfab93a43d74d_1733187059"
                     }
                 },
                 "interactions": {
@@ -8044,7 +8061,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -8464,7 +8482,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e0750bc5ec9b373a29d5c3597224a437cdba7abce74c6c0c73c7712adb42a99a_1733163463"
+                        "resource_signature": "63ba62eda2ac7ff9503e03e212b34f82841654e6f950a2c2b6755d2c8cbbf29a_1733187059"
                     }
                 },
                 "interactions": {
@@ -8502,7 +8520,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -8922,7 +8941,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "30d884f8c714f1a80dd626ec7361cf84ab68f8469395221874db29c8c4dfff47_1733163463"
+                        "resource_signature": "105cdf030f25c0008ff5695ed430bf977123727f78ccffe75e991208da4943ef_1733187059"
                     }
                 },
                 "interactions": {
@@ -8960,7 +8979,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -9380,7 +9400,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "92d1da436fcadfd70454edc77b52714ed8e1a651f86ef999ed329aeb387dbccb_1733163463"
+                        "resource_signature": "927c0cf167a9317be1938092609b2a15e997cd84f3c8e62c9fc4cae5cb9dd768_1733187059"
                     }
                 },
                 "interactions": {
@@ -9418,7 +9438,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -9838,7 +9859,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "71a35c1c964ade5863729510cfad877868b7b208656a1c01e962b6a8a4e2bf41_1733163463"
+                        "resource_signature": "7b6d438e532706584bfdad5fe6cf96b5025055ede5b53bb28f9b1a8f30420911_1733187059"
                     }
                 },
                 "interactions": {
@@ -9876,7 +9897,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -10296,7 +10318,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4096e3ca1b112f833a2bbcf7e57eea9270dbeaa402d9ed39981ab52da4e0d60f_1733163463"
+                        "resource_signature": "d6beca3fd91ce3a61b3fd696ff6ad344d5f1e5bcec69036d8c286d08bde24052_1733187059"
                     }
                 },
                 "interactions": {
@@ -10334,7 +10356,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -10754,7 +10777,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b7adc83c4a4538171eda4493c5917b054d8731f951f9479f9ec28d561b83c8d3_1733163463"
+                        "resource_signature": "86ca1f7b3afc2cafcf5b0adaa493e840e715f0fa70718f0056de273980aeffe1_1733187059"
                     }
                 },
                 "interactions": {
@@ -10792,7 +10815,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
@@ -11212,7 +11236,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a156977569800372047968b0e9508d98bb7b602a014e7ec13ae7173be118dbab_1733163463"
+                        "resource_signature": "bd1a1a14bd08028c0bce40a0aeb9d76b98566fc3282dbb225bab60bee8c5be6a_1733187059"
                     }
                 },
                 "interactions": {
@@ -11250,7 +11274,8 @@
                     "hasLiveSubscription": false,
                     "hasEnterpriseLihp": false,
                     "hasSvvTimecodedComments": false,
-                    "hasSimplifiedEnterpriseAccount": false
+                    "hasSimplifiedEnterpriseAccount": false,
+                    "hasManagementCapabilitiesForComments": false
                 },
                 "location": "",
                 "gender": "m",
