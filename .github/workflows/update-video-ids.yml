@@ -18,7 +18,7 @@ jobs:
         run: |
           set -e # Exit if any command fails
           echo "Fetching video IDs from Vimeo"
-          curl -H "Authorization: Bearer 8ad8207b523b00790698b612a88c5c2f" "https://api.vimeo.com/me/albums/11193887/videos" -o response.json
+          curl -H "Authorization: Bearer b881a0dd1e50107ca1a0f986d19700e4" "https://api.vimeo.com/me/albums/11193887/videos" -o response.json
           cat response.json | jq '[.data[] | .uri | split("/") | last] | {videoIds: .}' > data/videoIds.json
 
       - name: Minimize JSON output
