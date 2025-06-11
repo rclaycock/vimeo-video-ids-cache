@@ -21,7 +21,7 @@
             "language": null,
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1077826426?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"2025-03-04-Lindsay-Demyan-PSM-Horizontal\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1077826426?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2025-03-04-Lindsay-Demyan-PSM-Horizontal\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -277,7 +277,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "2451ecbd81617db2171c5be8e839bf5c766392899617e18289228bae4c77b022_1749644678"
+                        "resource_signature": "c73b68c317898cdc1fae8461f22629105e5adfb565750323ac9485255d1d3b45_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/1077826426/albums",
@@ -1150,7 +1150,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1057396137?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"2025-01-21-Lindsay-Demyan-Horizontal\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1057396137?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2025-01-21-Lindsay-Demyan-Horizontal\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -1406,7 +1406,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "db9104b93d8bc3d14f88dc19c0077558ff6856c2e32546ae7cfe639239da919b_1749644678"
+                        "resource_signature": "998b877f2d085b9c4ea2d9b4e27c1839a6a4f2d6e6ffb1f5c04432a82d8ede7b_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/1057396137/albums",
@@ -2279,7 +2279,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1056244534?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"2025-01-14-Sophia-Campagna-Horizontal-Titled\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1056244534?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2025-01-14-Sophia-Campagna-Horizontal-Titled\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -2535,7 +2535,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "33d070db628e3784203a02a6b47dee71833253070081bb596cfefc93c9534326_1749644678"
+                        "resource_signature": "b3a6ea7b6eee335eb6767a7ad7f38d4dd70043353e1c2fd1e1b174d3b9998ba0_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/1056244534/albums",
@@ -3408,7 +3408,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1055455017?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"2022-11-10-Gysette-AW23-Location-Campaign\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1055455017?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2022-11-10-Gysette-AW23-Location-Campaign\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -3483,7 +3483,7 @@
                 "speed": true
             },
             "created_time": "2025-02-11T05:04:41+00:00",
-            "modified_time": "2025-06-11T10:44:47+00:00",
+            "modified_time": "2025-06-11T14:40:57+00:00",
             "release_time": "2025-02-11T05:04:41+00:00",
             "content_rating": [
                 "safe"
@@ -3552,7 +3552,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1543
+                "plays": 1544
             },
             "categories": [],
             "uploader": {
@@ -3664,7 +3664,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "781c38bcbe0c059b7c14c44ef0da50c9d5e072fceb41929bfbc6eabe298a459b_1749644678"
+                        "resource_signature": "60f22e6c24927cc52892c311ad2eed87d3ba962ce67f5fe0352ac7b0303b84fa_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/1055455017/albums",
@@ -4537,7 +4537,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1054034457?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"2025-01-18-Tamara-Kordic-Horizontal-Titled\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1054034457?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2025-01-18-Tamara-Kordic-Horizontal-Titled\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -4793,7 +4793,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "84ee3916338bed33d108eaf42125b9086849b455a648ee56b320288355e72ce0_1749644678"
+                        "resource_signature": "3af8837a6c07c6ce0c6df06871361c2000264223643913c3d282ffcb25c0bdec_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/1054034457/albums",
@@ -5666,7 +5666,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1046309793?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"2024-12-19-Baylee-Mullen-Horizontal-Title\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1046309793?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2024-12-19-Baylee-Mullen-Horizontal-Title\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -5922,7 +5922,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "eac19f19bf29e1911166f60a99d3d80bc5df896304346a3c6ccab276d0185451_1749644678"
+                        "resource_signature": "84ccf3d24a0bea69223c43bc8a81cf01100a725b3eb5317172675f810464a8c6_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/1046309793/albums",
@@ -6795,7 +6795,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1033035654?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"2024-10-26-Sophia-Campagna\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1033035654?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2024-10-26-Sophia-Campagna\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -6870,7 +6870,7 @@
                 "speed": true
             },
             "created_time": "2024-11-25T11:09:46+00:00",
-            "modified_time": "2025-06-11T09:08:16+00:00",
+            "modified_time": "2025-06-11T13:23:31+00:00",
             "release_time": "2024-11-25T11:09:46+00:00",
             "content_rating": [
                 "safe"
@@ -6939,7 +6939,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 146
+                "plays": 147
             },
             "categories": [],
             "uploader": {
@@ -7051,7 +7051,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "cc4ab308c687430adee6034ca50198c3442c6f53ce9bb3546b5b52007995888a_1749644678"
+                        "resource_signature": "6375da7248fcf7cb6aba9a65060daec936a20c36010b1c02e5de38c3b808f9c8_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/1033035654/albums",
@@ -7924,7 +7924,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1032190915?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"2024-10-26-Leyla-Cross\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1032190915?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2024-10-26-Leyla-Cross\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -8180,7 +8180,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f4cc2736c332929e99fe37eeb8edbf9affbde8efb40b309bc6a804782b7a797d_1749644678"
+                        "resource_signature": "cb2e93f5575270cf1b890d4e4c5ea0d17d7b8747614f91be8a0b5a745c2439d9_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/1032190915/albums",
@@ -9053,7 +9053,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1018100840?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"2024-08-27-Brooke-Bailey-Horizontal-Longer\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1018100840?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2024-08-27-Brooke-Bailey-Horizontal-Longer\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -9309,7 +9309,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "83b3bf9e1efa17f9166df07834539798ca65cd60332579658cf372fc340be554_1749644678"
+                        "resource_signature": "a31426cd0446cca8b794c5ac537cc8af9ff4929091b20cc4d44156ffae067e68_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/1018100840/albums",
@@ -10182,7 +10182,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/999317006?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Abbey-Horizontal\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/999317006?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Abbey-Horizontal\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -10438,7 +10438,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "1697cdc5f20e704d56cce3cc1d846e4b44d9ff7e54a409949042d1fed35ff694_1749644678"
+                        "resource_signature": "1be2134423d1babdb71a34035f53fee3d739a10fbcbe5802ddd0338a96a01500_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/999317006/albums",
@@ -11311,7 +11311,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953760003?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Crimpit Foli 05\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953760003?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Crimpit Foli 05\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -11567,7 +11567,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "56d904658498b28e6ff79378c616d2b129f336c2af38d2d61658045c702fdef4_1749644678"
+                        "resource_signature": "e8fa59eb5cb2cc829e38ec696235f41ef3a25a1f1adfed8c5b783d6b417629a4_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953760003/albums",
@@ -12440,7 +12440,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759893?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Crimpit Foli 03\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759893?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Crimpit Foli 03\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -12696,7 +12696,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "39f1f1346876065e08f05c875c6443e7807f4d644c5f927e41d2f5bd6848a430_1749644678"
+                        "resource_signature": "55bc302bafa1076ef53b2b8e63ed8361acd88555ad352975d2898787f8df9791_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953759893/albums",
@@ -13569,7 +13569,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759842?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Crimpit Foli 02\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759842?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Crimpit Foli 02\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -13825,7 +13825,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "91d60654e0b90f99b33e066d3803e2aa51b16ac69ddcb69c3b304206e7e4308a_1749644678"
+                        "resource_signature": "651f68fc351bc9f44e6a448909e6405b9841e4bde18be961f2a3a0e8ad76503c_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953759842/albums",
@@ -14698,7 +14698,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759790?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Sport Glam\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759790?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Sport Glam\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -14954,7 +14954,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e8ac54736251b4f6e8d33842bce096d7db9c1c21b145ac479bf94767d578d7f9_1749644678"
+                        "resource_signature": "ef9ec51084f5352134900e4df8e6735368de4899ad9ec26876546f6698404c7e_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953759790/albums",
@@ -15827,7 +15827,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759696?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Lucy 2018\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759696?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Lucy 2018\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -16083,7 +16083,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "442c6e9b05ee9eb5efe9756b9c8265d73b6384186fee889422cc4939b822a78a_1749644678"
+                        "resource_signature": "55c6b6afc4434f88aa7d4889721562ea4cc273e798141b82496b2cc77e19f4da_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953759696/albums",
@@ -16956,7 +16956,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759643?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Crimpit Foli 01\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759643?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Crimpit Foli 01\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -17212,7 +17212,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d5e6140a904430ad7c61d617bcc4b6907b5f6378c6a1f5c8b78e7791662b5267_1749644678"
+                        "resource_signature": "4d557f2195888c4c113b73f15d3a8ea1f1a6f52998ba74204ae6cca4205db498_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953759643/albums",
@@ -18085,7 +18085,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759597?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Crimpit Foli 04\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759597?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Crimpit Foli 04\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -18341,7 +18341,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0f938bea4c649437d1df36647c4e5e5de1fe1c3d228a371d6433f3e3db504c8d_1749644678"
+                        "resource_signature": "462f01efc2ce936edbecd12435b08df34127575c51ae5ca8a6d5e48d4ab28613_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953759597/albums",
@@ -19214,7 +19214,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759468?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Healthy Trim\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759468?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Healthy Trim\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -19470,7 +19470,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "dd5d1c831fe9de6aeb9b2e25c2ef2eaf4118958b730260b4eb1978ae3385f196_1749644678"
+                        "resource_signature": "62193fdef1c9828737b115aeb9f4b6772aba2922ca1379b6f7db61cfc6d9903d_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953759468/albums",
@@ -20343,7 +20343,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759411?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Waisted Editorial\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759411?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Waisted Editorial\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -20599,7 +20599,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b1d1d8d53abf860d5b4efc813657316216f4dffd6280ad8d4221ce9ddb4dc952_1749644678"
+                        "resource_signature": "a5ddf07cf0b5b5127122d1b8c5edfe339f2a0ce331a20fff6ddd55c7f4be0a0e_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953759411/albums",
@@ -21472,7 +21472,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759090?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Elowen\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759090?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Elowen\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -21728,7 +21728,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4b6edf497969e9636c144288d9cf64cf23b15838dfca99893946caddb53e6754_1749644678"
+                        "resource_signature": "aa82bc14b1094d677ff758da10225db9c921df79a9a630110c8bf147396813d1_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953759090/albums",
@@ -22601,7 +22601,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953758935?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"FRANKIE 2021\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953758935?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"FRANKIE 2021\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -22857,7 +22857,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "669e04beef2e20d21fac0f8b24384e0b05374da032a59c4fd3ce06fd47e04e1a_1749644678"
+                        "resource_signature": "51ecf2943e091f908bd21167b631a0e3715cb2dd443fe2137296b6b8ac80ae30_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953758935/albums",
@@ -23730,7 +23730,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953758897?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Impact Armour Hype Reel\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953758897?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Impact Armour Hype Reel\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -23986,7 +23986,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "447489381df022f59971cea7aeeb1508435b0666dad7922166c75f6f56c8d66c_1749644678"
+                        "resource_signature": "f8571ca84c608f7fced230cccb8967cb3f8050f54546b36b6e761a07057822e4_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953758897/albums",
@@ -24859,7 +24859,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953758763?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Fairhaven\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953758763?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Fairhaven\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -25115,7 +25115,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "97fad77440eee0d1cb18970f905f15a1590e3296a9f756ce93b1879765f7f1a1_1749644678"
+                        "resource_signature": "b7849366f69499e140f0e4eaa64c01c6d7064ea7d1627f594632a573e661d261_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953758763/albums",
@@ -25988,7 +25988,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953758621?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"Scarlett Mayer - an echo\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953758621?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Scarlett Mayer - an echo\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -26244,7 +26244,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e0ede8326c7a99ad994c2f5b2bbe9fc04dade2f6791308af3cab97bf4b4551ab_1749644678"
+                        "resource_signature": "8bd74e40e39583dfa4664fc50f161ffe2bc50ecd46ed3f3fb4176ac4467d9347_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953758621/albums",
@@ -27117,7 +27117,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953402881?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" title=\"2024-05-28-Holly-Boothby-Titled\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953402881?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2024-05-28-Holly-Boothby-Titled\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -27373,7 +27373,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0658ca021c3cec646e3c2115ca08234b496a4e72ce0669785a1b8c57adde88d6_1749644678"
+                        "resource_signature": "9a67c0bc7c260689d61aa89d35f0caba8074ec8064de6b1f2f06cadbdc6d7682_1749665948"
                     },
                     "albums": {
                         "uri": "/videos/953402881/albums",
