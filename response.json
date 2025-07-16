@@ -21,7 +21,7 @@
             "language": null,
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1077826426?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2025-03-04-Lindsay-Demyan-PSM-Horizontal\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1077826426?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2025-03-04-Lindsay-Demyan-PSM-Horizontal\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -277,7 +277,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "77502ee7f96d8e7cd66e9cc94afd81ae1ab50a2efeb898ad87013d005a810b30_1752668735"
+                        "resource_signature": "8a0a72a6d843c320f64b14cfe5d4946f42472f0c108d2d84dc74035c005821d2_1752689985"
                     },
                     "albums": {
                         "uri": "/videos/1077826426/albums",
@@ -1150,7 +1150,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1057396137?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2025-01-21-Lindsay-Demyan-Horizontal\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1057396137?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2025-01-21-Lindsay-Demyan-Horizontal\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -1225,7 +1225,7 @@
                 "speed": true
             },
             "created_time": "2025-02-17T06:06:24+00:00",
-            "modified_time": "2025-07-14T08:27:00+00:00",
+            "modified_time": "2025-07-16T17:36:29+00:00",
             "release_time": "2025-02-17T06:06:24+00:00",
             "content_rating": [
                 "safe"
@@ -1294,7 +1294,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 121
+                "plays": 125
             },
             "categories": [],
             "uploader": {
@@ -1406,7 +1406,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "bc2545a4e01fc0c844add30c9af501a3c2c71929ca9bddbc99a3414f215ab03a_1752668735"
+                        "resource_signature": "353a1a9fd8d482e808c6a1f7f2f43bd3ee0e290d6f78e1bcecb53d67a98b6099_1752689985"
                     },
                     "albums": {
                         "uri": "/videos/1057396137/albums",
@@ -2279,7 +2279,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1056244534?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2025-01-14-Sophia-Campagna-Horizontal-Titled\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1056244534?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2025-01-14-Sophia-Campagna-Horizontal-Titled\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -2354,7 +2354,7 @@
                 "speed": true
             },
             "created_time": "2025-02-13T04:17:05+00:00",
-            "modified_time": "2025-07-16T11:49:11+00:00",
+            "modified_time": "2025-07-16T17:50:42+00:00",
             "release_time": "2025-02-13T04:17:05+00:00",
             "content_rating": [
                 "safe"
@@ -2423,7 +2423,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1001
+                "plays": 1026
             },
             "categories": [],
             "uploader": {
@@ -2535,7 +2535,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "97cad0fcd8ffd7ac32885e720a63526c91cc0f85a5e84c6f59738418a3647391_1752668735"
+                        "resource_signature": "e792bdb335b788fd7fecd814574e6497c40c2c05b12a48bedbbeca5195913051_1752689985"
                     },
                     "albums": {
                         "uri": "/videos/1056244534/albums",
@@ -3408,7 +3408,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1055455017?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2022-11-10-Gysette-AW23-Location-Campaign\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1055455017?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2022-11-10-Gysette-AW23-Location-Campaign\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -3483,7 +3483,7 @@
                 "speed": true
             },
             "created_time": "2025-02-11T05:04:41+00:00",
-            "modified_time": "2025-07-16T02:46:11+00:00",
+            "modified_time": "2025-07-16T17:53:55+00:00",
             "release_time": "2025-02-11T05:04:41+00:00",
             "content_rating": [
                 "safe"
@@ -3552,7 +3552,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1726
+                "plays": 1759
             },
             "categories": [],
             "uploader": {
@@ -3664,7 +3664,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7536fc757127995ed4f2590a24214252b32f1b608aab6cce150e4397763554a5_1752668735"
+                        "resource_signature": "ffaa9924ae61e747e76c1ca6909cb87c6b66e2afc4a14e30b48d22ea91feac20_1752689985"
                     },
                     "albums": {
                         "uri": "/videos/1055455017/albums",
@@ -4537,7 +4537,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1054034457?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2025-01-18-Tamara-Kordic-Horizontal-Titled\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1054034457?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2025-01-18-Tamara-Kordic-Horizontal-Titled\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -4612,7 +4612,7 @@
                 "speed": true
             },
             "created_time": "2025-02-06T07:13:57+00:00",
-            "modified_time": "2025-07-16T02:55:51+00:00",
+            "modified_time": "2025-07-16T17:12:07+00:00",
             "release_time": "2025-02-06T07:13:57+00:00",
             "content_rating": [
                 "safe"
@@ -4681,7 +4681,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1011
+                "plays": 1060
             },
             "categories": [],
             "uploader": {
@@ -4793,7 +4793,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "eb28f9548983949ab0cc357bec2840d4d472ef16f5df6ba8a79cde3cd30aa8f6_1752668735"
+                        "resource_signature": "228fc74545dfdc174ca0914da0d3ac0039421c8a610501ed6dfdd685aed5b372_1752689985"
                     },
                     "albums": {
                         "uri": "/videos/1054034457/albums",
@@ -5666,7 +5666,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1046309793?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2024-12-19-Baylee-Mullen-Horizontal-Title\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1046309793?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2024-12-19-Baylee-Mullen-Horizontal-Title\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -5741,7 +5741,7 @@
                 "speed": true
             },
             "created_time": "2025-01-13T06:44:42+00:00",
-            "modified_time": "2025-07-16T03:11:11+00:00",
+            "modified_time": "2025-07-16T17:35:07+00:00",
             "release_time": "2025-01-13T06:44:42+00:00",
             "content_rating": [
                 "safe"
@@ -5810,7 +5810,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1692
+                "plays": 1757
             },
             "categories": [],
             "uploader": {
@@ -5922,7 +5922,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8111b80c0ce4d6a6accb80d86d8033aeec27415706c8d6e32ea2af34f149beb7_1752668735"
+                        "resource_signature": "4b358b342425cbc3ab8ea33be1779fec0f46a0b7390c715e579a7d899f0fbb80_1752689985"
                     },
                     "albums": {
                         "uri": "/videos/1046309793/albums",
@@ -6795,7 +6795,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1033035654?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2024-10-26-Sophia-Campagna\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1033035654?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2024-10-26-Sophia-Campagna\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -7051,7 +7051,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8700b1721a2b7e70378207676d4992a0c15928e3ba273ede96dad428a8160f4f_1752668735"
+                        "resource_signature": "e6dfdf0df28a0cb38b4027545f56a8531fa53deafbe86a2508a42d9ca0dadc99_1752689985"
                     },
                     "albums": {
                         "uri": "/videos/1033035654/albums",
@@ -7924,7 +7924,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1032190915?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2024-10-26-Leyla-Cross\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1032190915?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2024-10-26-Leyla-Cross\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -7999,7 +7999,7 @@
                 "speed": true
             },
             "created_time": "2024-11-22T03:42:45+00:00",
-            "modified_time": "2025-07-16T02:58:42+00:00",
+            "modified_time": "2025-07-16T17:35:05+00:00",
             "release_time": "2024-11-22T03:42:45+00:00",
             "content_rating": [
                 "safe"
@@ -8068,7 +8068,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1043
+                "plays": 1091
             },
             "categories": [],
             "uploader": {
@@ -8180,7 +8180,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "66394f1a8353d08b08fb794d830aea8eb20026cb1dbafbdd9a3e3c43f5f76bae_1752668735"
+                        "resource_signature": "8f56e5ea0c409846638f37322bab3dcca5591f2864cf72d4a8ac4d7ca639522a_1752689985"
                     },
                     "albums": {
                         "uri": "/videos/1032190915/albums",
@@ -9053,7 +9053,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1018100840?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2024-08-27-Brooke-Bailey-Horizontal-Longer\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1018100840?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2024-08-27-Brooke-Bailey-Horizontal-Longer\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -9128,7 +9128,7 @@
                 "speed": true
             },
             "created_time": "2024-10-09T22:06:22+00:00",
-            "modified_time": "2025-07-16T03:16:37+00:00",
+            "modified_time": "2025-07-16T18:06:20+00:00",
             "release_time": "2024-10-09T22:06:22+00:00",
             "content_rating": [
                 "safe"
@@ -9197,7 +9197,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1746
+                "plays": 1816
             },
             "categories": [],
             "uploader": {
@@ -9309,7 +9309,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8259a9ddeb0525cdbe4ac33adeac4a0bdb6c1b09e25695a49f067e2c52be6f78_1752668735"
+                        "resource_signature": "80fe8f1bcbdb840d19e6eedd1bd7b9e06043acf41b535428609eeb7a605d7cb9_1752689985"
                     },
                     "albums": {
                         "uri": "/videos/1018100840/albums",
@@ -10182,7 +10182,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/999317006?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Abbey-Horizontal\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/999317006?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Abbey-Horizontal\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -10257,7 +10257,7 @@
                 "speed": true
             },
             "created_time": "2024-08-15T23:07:53+00:00",
-            "modified_time": "2025-07-14T19:27:54+00:00",
+            "modified_time": "2025-07-16T17:52:21+00:00",
             "release_time": "2024-08-15T23:07:53+00:00",
             "content_rating": [
                 "safe"
@@ -10326,7 +10326,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 253
+                "plays": 256
             },
             "categories": [],
             "uploader": {
@@ -10438,7 +10438,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "508f5b47e4afc0ec638f42f6839e6c73ab5667118394734f7e8269e8efa0e2ab_1752668735"
+                        "resource_signature": "e6d2e951faaec82cf0fc2575f051d4a11883a89f1d12e65d86baf259bb0688f1_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/999317006/albums",
@@ -11311,7 +11311,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953760003?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Crimpit Foli 05\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953760003?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Crimpit Foli 05\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -11386,7 +11386,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:12:27+00:00",
-            "modified_time": "2025-07-11T05:01:17+00:00",
+            "modified_time": "2025-07-16T17:06:41+00:00",
             "release_time": "2024-06-05T00:12:27+00:00",
             "content_rating": [
                 "safe"
@@ -11455,7 +11455,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 213
+                "plays": 214
             },
             "categories": [],
             "uploader": {
@@ -11567,7 +11567,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "5fdcf5d9ad71463ddbece8dbc5f71a31285ba88080f4112a052479b67f2add6d_1752668735"
+                        "resource_signature": "0a02f67994fa17c9af9fb76c240a91a6782c967f1a3cc20da1e34dd2116b556e_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953760003/albums",
@@ -12440,7 +12440,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759893?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Crimpit Foli 03\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759893?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Crimpit Foli 03\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -12515,7 +12515,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:11:54+00:00",
-            "modified_time": "2025-07-14T08:57:56+00:00",
+            "modified_time": "2025-07-16T17:33:30+00:00",
             "release_time": "2024-06-05T00:11:54+00:00",
             "content_rating": [
                 "safe"
@@ -12584,7 +12584,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 501
+                "plays": 522
             },
             "categories": [],
             "uploader": {
@@ -12696,7 +12696,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "37ac0556eeec4aef45fdcd150c467e57196e89cd164f904cae2e116a366d1721_1752668735"
+                        "resource_signature": "d752cf2428d5dc71600400ba14e16f5a1ffe20851b72fd89d8bcf786fc31a9e7_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953759893/albums",
@@ -13569,7 +13569,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759842?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Crimpit Foli 02\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759842?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Crimpit Foli 02\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -13644,7 +13644,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:11:42+00:00",
-            "modified_time": "2025-07-14T08:52:32+00:00",
+            "modified_time": "2025-07-16T17:07:53+00:00",
             "release_time": "2024-06-05T00:11:42+00:00",
             "content_rating": [
                 "safe"
@@ -13713,7 +13713,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 239
+                "plays": 242
             },
             "categories": [],
             "uploader": {
@@ -13825,7 +13825,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c66b2fd93af77e6979463cfbb680fd343ebfd826da12506331340c27b4d0bb10_1752668735"
+                        "resource_signature": "1ee0caf1bd59be47f0da3a27d1e0c2690b5a6199ef8407040c5b5851ec0eeebd_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953759842/albums",
@@ -14698,7 +14698,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759790?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Sport Glam\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759790?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Sport Glam\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -14773,7 +14773,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:11:25+00:00",
-            "modified_time": "2025-07-16T02:28:57+00:00",
+            "modified_time": "2025-07-16T17:15:25+00:00",
             "release_time": "2024-06-05T00:11:25+00:00",
             "content_rating": [
                 "safe"
@@ -14842,7 +14842,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1920
+                "plays": 1988
             },
             "categories": [],
             "uploader": {
@@ -14954,7 +14954,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f075e4cf38ea0f34a1132e537f357fd35a896b94520da37b4d7db298578dab39_1752668735"
+                        "resource_signature": "edd0a608871d62d8d0906da911fa7590e20b4b9e25c56a4fbb155ddb25a97efb_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953759790/albums",
@@ -15827,7 +15827,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759696?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Lucy 2018\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759696?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Lucy 2018\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -15902,7 +15902,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:10:52+00:00",
-            "modified_time": "2025-07-14T09:20:03+00:00",
+            "modified_time": "2025-07-16T17:38:44+00:00",
             "release_time": "2024-06-05T00:10:52+00:00",
             "content_rating": [
                 "safe"
@@ -15971,7 +15971,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 442
+                "plays": 443
             },
             "categories": [],
             "uploader": {
@@ -16083,7 +16083,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "625459059ac4b8c8e4e3a34ba7196d830b4f2b1fa746c47749c3895dc1ea1c42_1752668735"
+                        "resource_signature": "e3e57d6caa8ad30d111f93bdf97e8a85a3263cbbc3fd0ad220137343ec448b25_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953759696/albums",
@@ -16956,7 +16956,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759643?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Crimpit Foli 01\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759643?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Crimpit Foli 01\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -17031,7 +17031,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:10:38+00:00",
-            "modified_time": "2025-07-01T12:33:08+00:00",
+            "modified_time": "2025-07-16T18:11:10+00:00",
             "release_time": "2024-06-05T00:10:38+00:00",
             "content_rating": [
                 "safe"
@@ -17100,7 +17100,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 193
+                "plays": 196
             },
             "categories": [],
             "uploader": {
@@ -17212,7 +17212,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "32a47ecd31f5df27d5616ad468aae9943b7049d1fc0c839c99b02720009ec3a5_1752668735"
+                        "resource_signature": "d3c91d412d3ad0abb8c5b5306c3307a18e441374c88f47fb84ed0665c0256027_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953759643/albums",
@@ -18085,7 +18085,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759597?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Crimpit Foli 04\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759597?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Crimpit Foli 04\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -18160,7 +18160,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:10:25+00:00",
-            "modified_time": "2025-07-14T09:19:21+00:00",
+            "modified_time": "2025-07-16T17:56:09+00:00",
             "release_time": "2024-06-05T00:10:25+00:00",
             "content_rating": [
                 "safe"
@@ -18229,7 +18229,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 204
+                "plays": 205
             },
             "categories": [],
             "uploader": {
@@ -18341,7 +18341,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d79a6db2f5bb869fbcfc710d4f8d0534b3ce1d7f9bbf70d6317b98ed5728a45e_1752668735"
+                        "resource_signature": "b7f97fea67876250cd665afe472f6f7a63379656c04b1daa6904e8a31bf9db1c_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953759597/albums",
@@ -19214,7 +19214,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759468?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Healthy Trim\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759468?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Healthy Trim\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -19289,7 +19289,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:09:52+00:00",
-            "modified_time": "2025-07-14T09:08:09+00:00",
+            "modified_time": "2025-07-16T17:02:54+00:00",
             "release_time": "2024-06-05T00:09:52+00:00",
             "content_rating": [
                 "safe"
@@ -19358,7 +19358,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 655
+                "plays": 676
             },
             "categories": [],
             "uploader": {
@@ -19470,7 +19470,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "709e93b9873b752f5516bfedb92d63fa77890765db77a0414451dcc64a4d5086_1752668735"
+                        "resource_signature": "79eed288565994803b52ccf7dcd2a7f6ddef55e3184ebe4195211057a1a0075d_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953759468/albums",
@@ -20343,7 +20343,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759411?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Waisted Editorial\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759411?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Waisted Editorial\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -20418,7 +20418,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:09:31+00:00",
-            "modified_time": "2025-07-16T02:39:59+00:00",
+            "modified_time": "2025-07-16T18:03:40+00:00",
             "release_time": "2024-06-05T00:09:31+00:00",
             "content_rating": [
                 "safe"
@@ -20487,7 +20487,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1941
+                "plays": 1973
             },
             "categories": [],
             "uploader": {
@@ -20599,7 +20599,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "dfd5edba1c5187fd660f848eb1837ad35e4703a85aee5ee5f78bc159eb670f75_1752668735"
+                        "resource_signature": "29fd1a6d3f2fc1b0f4575682adca43290a299cd15a9512e375b2c04de28ac5ff_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953759411/albums",
@@ -21472,7 +21472,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953759090?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Elowen\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953759090?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Elowen\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -21547,7 +21547,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:07:56+00:00",
-            "modified_time": "2025-07-14T08:36:52+00:00",
+            "modified_time": "2025-07-16T16:06:17+00:00",
             "release_time": "2024-06-05T00:07:56+00:00",
             "content_rating": [
                 "safe"
@@ -21616,7 +21616,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 675
+                "plays": 687
             },
             "categories": [],
             "uploader": {
@@ -21728,7 +21728,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ce84bafd3dc087ec01d58f8c2ee0e97ad6e2c6b1ed3734f0ed4770d9b8af55b5_1752668735"
+                        "resource_signature": "20c5198f326aa987736fc16af0bb218c6286557166e5460cd08eb5f5226f5a64_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953759090/albums",
@@ -22601,7 +22601,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953758935?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"FRANKIE 2021\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953758935?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"FRANKIE 2021\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -22676,7 +22676,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:07:09+00:00",
-            "modified_time": "2025-07-16T03:32:23+00:00",
+            "modified_time": "2025-07-16T17:01:51+00:00",
             "release_time": "2024-06-05T00:07:09+00:00",
             "content_rating": [
                 "safe"
@@ -22745,7 +22745,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1886
+                "plays": 1950
             },
             "categories": [],
             "uploader": {
@@ -22857,7 +22857,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "79382e48172e7176c4e93986283b4c2c2b35f23fcf639a14ee882c29d8d81e04_1752668735"
+                        "resource_signature": "68b5e5dbc110cfc27c3be2560861e44cd77639328154d742910cfe38a0b302a8_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953758935/albums",
@@ -23730,7 +23730,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953758897?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Impact Armour Hype Reel\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953758897?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Impact Armour Hype Reel\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -23805,7 +23805,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:06:55+00:00",
-            "modified_time": "2025-07-14T08:53:23+00:00",
+            "modified_time": "2025-07-16T17:50:51+00:00",
             "release_time": "2024-06-05T00:06:55+00:00",
             "content_rating": [
                 "safe"
@@ -23874,7 +23874,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 610
+                "plays": 632
             },
             "categories": [],
             "uploader": {
@@ -23986,7 +23986,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "9816b3110bec9d865b0577f2b9e8d2746da96a8b3fd61772bfbe6d0fcac50feb_1752668735"
+                        "resource_signature": "f04eecdbf7c9bdb8ccc76357780776634a917f3a5322ebdef51b6e03523d4e13_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953758897/albums",
@@ -24859,7 +24859,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953758763?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Fairhaven\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953758763?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Fairhaven\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -24934,7 +24934,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:06:16+00:00",
-            "modified_time": "2025-07-14T09:18:29+00:00",
+            "modified_time": "2025-07-16T17:21:58+00:00",
             "release_time": "2024-06-05T00:06:16+00:00",
             "content_rating": [
                 "safe"
@@ -25003,7 +25003,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 338
+                "plays": 341
             },
             "categories": [],
             "uploader": {
@@ -25115,7 +25115,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7e52636ece14ea6f196a5201165bb83ad5e36d3ef594eed609143a14e878d5dc_1752668735"
+                        "resource_signature": "a275947c99f429e414c9909b659b6fb91c00113e51abcd11cdbf314999fedad8_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953758763/albums",
@@ -25988,7 +25988,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953758621?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"Scarlett Mayer - an echo\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953758621?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Scarlett Mayer - an echo\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -26063,7 +26063,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:05:31+00:00",
-            "modified_time": "2025-07-16T02:40:33+00:00",
+            "modified_time": "2025-07-16T16:54:46+00:00",
             "release_time": "2024-06-05T00:05:31+00:00",
             "content_rating": [
                 "safe"
@@ -26132,7 +26132,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1306
+                "plays": 1356
             },
             "categories": [],
             "uploader": {
@@ -26244,7 +26244,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3dd0b91c0f19aee54cb3952d948bdaba1f2136a7d64910b16f16d48f2dfcc035_1752668735"
+                        "resource_signature": "bcc9bc235add1735bbcd0951a85d33a0976a1ab11eff7c834f7ac56e42e86da6_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953758621/albums",
@@ -27117,7 +27117,7 @@
             "language": "en",
             "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/953402881?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" title=\"2024-05-28-Holly-Boothby-Titled\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/953402881?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2024-05-28-Holly-Boothby-Titled\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -27192,7 +27192,7 @@
                 "speed": true
             },
             "created_time": "2024-06-04T04:07:48+00:00",
-            "modified_time": "2025-07-16T03:13:55+00:00",
+            "modified_time": "2025-07-16T16:44:29+00:00",
             "release_time": "2024-06-04T04:07:48+00:00",
             "content_rating": [
                 "safe"
@@ -27261,7 +27261,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1209
+                "plays": 1257
             },
             "categories": [],
             "uploader": {
@@ -27373,7 +27373,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d9980176864f5aa2d4acb0c93c3a2e18baf4c572f5213be0eb3f0e2febb61641_1752668735"
+                        "resource_signature": "157ce76edf0ff9d1e2aa9ec2c28d1c1ae852fc09540e8c5d954dffc708819292_1752689986"
                     },
                     "albums": {
                         "uri": "/videos/953402881/albums",
