@@ -277,7 +277,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a9b60bc444e3c3dd2e4396e6d4a1046ecdd8268c21cd4547fef504e0f14d8221_1755001474"
+                        "resource_signature": "9b0841c84dbab24bab1f85b750cc1c44f2db702fdffb8b578fa8240b41bddfc7_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/1077826426/albums",
@@ -428,6 +428,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -732,6 +733,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -1404,7 +1406,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "86407788fefc6aaf119498fa8a133d48d0273bf54b734d69b34e21f5ec33b606_1755001474"
+                        "resource_signature": "6fb31ef38a72a06d3796666be8c30bd2385be4558be45690fa88bcdc29f34fb9_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/1057396137/albums",
@@ -1555,6 +1557,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -1859,6 +1862,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -2531,7 +2535,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "14a844ccb869d0b0874a799d101ebc2a4e7bf5119f8523831fce4c6c9494ac81_1755001474"
+                        "resource_signature": "6d17cba18d4cdd003a9fc2247fa39d8a39172ac29859d2afb64796229a83ed6b_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/1056244534/albums",
@@ -2682,6 +2686,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -2986,6 +2991,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -3658,7 +3664,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "eba0079e19dbcdad624fefaebc241fc526e4b4a0f779c786fced01c9e70df5e8_1755001474"
+                        "resource_signature": "226af4016ecee6917776a606c4175a0d9287c4c3a7880500f14312378658703a_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/1055455017/albums",
@@ -3809,6 +3815,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -4113,6 +4120,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -4785,7 +4793,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "9b0aefe75ace7c4da1dfb2e9951725430e0f4af77f5919b918abd10d3239d008_1755001474"
+                        "resource_signature": "2651f8eb6d23fc9cde8c1fedeca579483d0c6b1f1a28c2aef0ea4c166787fed7_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/1054034457/albums",
@@ -4936,6 +4944,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -5240,6 +5249,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -5912,7 +5922,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7fab37e52c1ee65ed1662db1f98d657214e9059df7cb874358af57cfa7e348db_1755001474"
+                        "resource_signature": "6632bacb023880b05fd956512f5711834166f69a4593f7d5c9e8de4e7f09d52c_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/1046309793/albums",
@@ -6063,6 +6073,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -6367,6 +6378,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -7039,7 +7051,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a2ea7f83f73d52f29eba76331c7efbeece47633cd7d8b94aa19a4a9bc31454da_1755001474"
+                        "resource_signature": "61d7815f189c1497160b987db3cb93d066098a229fc0cca63529c5b86bfd8b27_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/1033035654/albums",
@@ -7190,6 +7202,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -7494,6 +7507,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -8166,7 +8180,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ddfb3987af1004e134f6d45ca5b487672a396d3778a6c40b2b84f95fe0b0aa30_1755001474"
+                        "resource_signature": "2f3a24a4d1376a69537f5033c104a461a2cbc4cc808dd9b95f58256e10c91715_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/1032190915/albums",
@@ -8317,6 +8331,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -8621,6 +8636,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -9293,7 +9309,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "2feb5bf027454387b880f310bc7016d1f28aee598054d20749b052c33715935b_1755001474"
+                        "resource_signature": "54a775e860cc80fd16b49278159ba5531528f626df3788fc8c3dd24df044d46c_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/1018100840/albums",
@@ -9444,6 +9460,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -9748,6 +9765,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -10420,7 +10438,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "91b9521ec9beb0d2c38aa90b4d52d4421217b2b4680f5286115e89056af062b4_1755001474"
+                        "resource_signature": "b8328fa2b1080780dfe2518f50ee7e244d49692dca714187c50fbe1aaaaccc20_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/999317006/albums",
@@ -10571,6 +10589,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -10875,6 +10894,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -11547,7 +11567,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "acd4d237ad4043a35b1557b1255366d154448da06e58f43f1ad874a3a181298c_1755001474"
+                        "resource_signature": "5f54f0bdbb824f229048827f938a634804301ce057ea6e36749b9f42e3f929ab_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953760003/albums",
@@ -11698,6 +11718,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -12002,6 +12023,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -12674,7 +12696,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a1102ded1e109c87a8e5967956877972d3584da1c890b4b67589d2ac45fb419d_1755001474"
+                        "resource_signature": "4f20bf1ef72d1298020636e4ecf12fe001a5a33513550c79ce5e31fdb45344ab_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953759893/albums",
@@ -12825,6 +12847,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -13129,6 +13152,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -13801,7 +13825,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "77600974d1499aebfc5a9e684f5f27cae9f1a3d51b0cf429d31d5ed2e47d9ff9_1755001474"
+                        "resource_signature": "92a4d28e99997647b6af241a3a23192a969083adfa9d59c820a360c1ac244f7b_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953759842/albums",
@@ -13952,6 +13976,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -14256,6 +14281,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -14928,7 +14954,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a5b13299f81eb63c4e434f63c862bf97b88e73655e23af26c601b34e6e5b03c9_1755001474"
+                        "resource_signature": "f6171d098836d12789d942ad857fde16cdb22ce7e1b36fcb0ccaa98d707ff7e7_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953759790/albums",
@@ -15079,6 +15105,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -15383,6 +15410,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -16055,7 +16083,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "2e017d4375f089a1ed76b8274fb357d4a564ae84da9a67f49e9d942b757da451_1755001474"
+                        "resource_signature": "1b36be2f6d8dd60bb0a8fb3fed8b0d6aa6e86c2b68c19930d0b7a45bc220c187_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953759696/albums",
@@ -16206,6 +16234,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -16510,6 +16539,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -17182,7 +17212,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "29bd8b3db5bc1775e100ca8b71a81592378dd6b044bc310dce1be921626ac3a7_1755001474"
+                        "resource_signature": "18d4d32030552547e748309fca77be6c4a0169122e0d3a698d86a25a4adff22f_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953759643/albums",
@@ -17333,6 +17363,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -17637,6 +17668,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -18309,7 +18341,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "25e589ecef483bc5e2347a3efca40cc1a65ffe3f990ed38a3650ba4c76f3da98_1755001474"
+                        "resource_signature": "2ea30729d0af09b50af5c5b1a8308fcafe3a88922c99411d48b982a582f70419_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953759597/albums",
@@ -18460,6 +18492,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -18764,6 +18797,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -19436,7 +19470,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e95aec5baa4976c079bb0536f9836d55a748b168b532fd6bb1d90e59aac0ba9c_1755001474"
+                        "resource_signature": "5db28badfa29b56c43a8e44dde5bf3972ae1606f28da288ca667816cb6952612_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953759468/albums",
@@ -19587,6 +19621,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -19891,6 +19926,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -20563,7 +20599,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "9eec6c8ff4cb278b81a844db0dc7c21752af4952ca1c3de194dfd2465b7a64aa_1755001474"
+                        "resource_signature": "1052daf85fc1a5492f21b98657bdf810adf2d6601990fb792883bd2a7cd18663_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953759411/albums",
@@ -20714,6 +20750,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -21018,6 +21055,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -21690,7 +21728,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "cfe8a5f2c92fa9a2bacf88a7ab0185a9c54f0c0558fb266577f8aa4e0b92a7b7_1755001474"
+                        "resource_signature": "817809a261c0e39ba33d774ef4d46765d8634c51ef4b71d67ee271f85c073547_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953759090/albums",
@@ -21841,6 +21879,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -22145,6 +22184,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -22817,7 +22857,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3c3deb1b66bdbd77cf8088dc953c0f413e5f905599fe23d63c7d5972bdb59a24_1755001474"
+                        "resource_signature": "a4d5e9979daf94cc0f51e6ab897d5204e6727b4092faa0ff2030bb185ecfa1df_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953758935/albums",
@@ -22968,6 +23008,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -23272,6 +23313,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -23944,7 +23986,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "84bacedba1fcec01b1617c8a208664e67b04d582649637da1caf9ae702e0ebcf_1755001474"
+                        "resource_signature": "03bef3e63c710ad9086b7cba056c96f3f04bc885f5884adc87e672c4c9e506ce_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953758897/albums",
@@ -24095,6 +24137,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -24399,6 +24442,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -25071,7 +25115,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "6cb435d9438a3272a6cc33afd26937baad6cdded3563a5488c6bccfb33ed8c40_1755001474"
+                        "resource_signature": "5abb2f05b1fadf8d364ccabe9d7da77d8ea46c5c2013d6dcab6eff43ccf74f2b_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953758763/albums",
@@ -25222,6 +25266,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -25526,6 +25571,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -26198,7 +26244,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "18778101edc503e8f14f4889dc6839eb0d68c0466674992a553274274de76645_1755001474"
+                        "resource_signature": "4db039b84205fdc3e1347d9284ac7aa9dc633542b9cba1731256b0f25ebbd38a_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953758621/albums",
@@ -26349,6 +26395,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -26653,6 +26700,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
@@ -27325,7 +27373,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "adba9a12da16fc63dbbe9c8310304bebf81c40e622db8c99046c62943a794334_1755001474"
+                        "resource_signature": "48d14057a96457f248127fbfcf4784d4caab8c9e15c97a7347c70cf52db5fb9e_1755022803"
                     },
                     "albums": {
                         "uri": "/videos/953402881/albums",
@@ -27476,6 +27524,7 @@
                     "hasSvvTimecodedComments": false,
                     "hasSimplifiedEnterpriseAccount": false,
                     "hasManagementCapabilitiesForComments": true,
+                    "hasDetailedVideoVersionHistory": false,
                     "canViewSimplifiedCommentMentions": true
                 },
                 "location": "",
@@ -27780,6 +27829,7 @@
                         "hasSvvTimecodedComments": false,
                         "hasSimplifiedEnterpriseAccount": false,
                         "hasManagementCapabilitiesForComments": true,
+                        "hasDetailedVideoVersionHistory": false,
                         "canViewSimplifiedCommentMentions": true
                     },
                     "location": "",
