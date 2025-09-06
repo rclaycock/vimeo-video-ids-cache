@@ -277,7 +277,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d8035170656bd016c167fa79a2d1ab4f29c54417e6dfec5861580a3aa29595e7_1757096282"
+                        "resource_signature": "d81197901781afaf7cea66eac1e1171cea2e029dcc988e21624689182e51076b_1757119705"
                     },
                     "albums": {
                         "uri": "/videos/1077826426/albums",
@@ -661,9 +661,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -968,9 +968,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -1410,7 +1410,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "80fd907073c9cb1446682b36c4fc638e69c8204c110bdbeff22d7e4d845cdaa4_1757096282"
+                        "resource_signature": "a206c1c8f7e2e81b744b93fa0d029ff4fbfa644ce69d76392a2890d3e5acfc45_1757119705"
                     },
                     "albums": {
                         "uri": "/videos/1057396137/albums",
@@ -1794,9 +1794,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -2101,9 +2101,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -2362,7 +2362,7 @@
                 "speed": true
             },
             "created_time": "2025-02-13T04:17:05+00:00",
-            "modified_time": "2025-09-04T10:55:32+00:00",
+            "modified_time": "2025-09-05T19:24:09+00:00",
             "release_time": "2025-02-13T04:17:05+00:00",
             "content_rating": [
                 "safe"
@@ -2431,7 +2431,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1219
+                "plays": 1220
             },
             "categories": [],
             "uploader": {
@@ -2543,7 +2543,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e206e0af764c496be2cadec2e7a6b1cd44c45f6fb4901c661c072f7fbd4f1087_1757096282"
+                        "resource_signature": "990d228b0a694d8db3d676e60096f2d28d37ac6b71ee47cad9280b608d6fa917_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/1056244534/albums",
@@ -2927,9 +2927,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -3234,9 +3234,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -3495,7 +3495,7 @@
                 "speed": true
             },
             "created_time": "2025-02-11T05:04:41+00:00",
-            "modified_time": "2025-09-04T11:07:30+00:00",
+            "modified_time": "2025-09-06T00:42:43+00:00",
             "release_time": "2025-02-11T05:04:41+00:00",
             "content_rating": [
                 "safe"
@@ -3564,7 +3564,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 2114
+                "plays": 2117
             },
             "categories": [],
             "uploader": {
@@ -3676,7 +3676,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b0c97e873807987e10af9569b8b0b332a920e9784f9ab9a2287360ffe3c0d13d_1757096282"
+                        "resource_signature": "907053acaa9abe206bdaacf6800a2caae310a628ba6050c54064a5ff5e778f88_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/1055455017/albums",
@@ -4060,9 +4060,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -4367,9 +4367,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -4628,7 +4628,7 @@
                 "speed": true
             },
             "created_time": "2025-02-06T07:13:57+00:00",
-            "modified_time": "2025-09-04T11:35:40+00:00",
+            "modified_time": "2025-09-05T19:34:31+00:00",
             "release_time": "2025-02-06T07:13:57+00:00",
             "content_rating": [
                 "safe"
@@ -4697,7 +4697,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1216
+                "plays": 1217
             },
             "categories": [],
             "uploader": {
@@ -4809,7 +4809,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "abca3a0118ccd4da0f78c5fb5b8e34ccc91daa4d52229ed6833afa967914c1cd_1757096282"
+                        "resource_signature": "ead44eccab31a95b7e33d043cfd46b0372b97f6ec0d8dea6e276a066f21da49a_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/1054034457/albums",
@@ -5193,9 +5193,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -5500,9 +5500,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -5761,7 +5761,7 @@
                 "speed": true
             },
             "created_time": "2025-01-13T06:44:42+00:00",
-            "modified_time": "2025-09-04T22:44:47+00:00",
+            "modified_time": "2025-09-05T23:09:20+00:00",
             "release_time": "2025-01-13T06:44:42+00:00",
             "content_rating": [
                 "safe"
@@ -5830,7 +5830,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 2058
+                "plays": 2060
             },
             "categories": [],
             "uploader": {
@@ -5942,7 +5942,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c0d8db4175feb8d3d5087ca089e69a7bba517aa163be086baea384021e6e9fa6_1757096282"
+                        "resource_signature": "666895dfe3db483f9dc59dc26a2ba201c81fe9e49e895db4d9ecd52b140ea10b_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/1046309793/albums",
@@ -6326,9 +6326,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -6633,9 +6633,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -7075,7 +7075,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "13ff59721d4592d6d276944cf4ffc70337fd2e3cf86ee421674f966fd0b09531_1757096282"
+                        "resource_signature": "e49e46b25f07cb6f692fa452b1b3704f2cca2aec8d0b057ad6b2f10327d77fb4_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/1033035654/albums",
@@ -7459,9 +7459,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -7766,9 +7766,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -8027,7 +8027,7 @@
                 "speed": true
             },
             "created_time": "2024-11-22T03:42:45+00:00",
-            "modified_time": "2025-09-04T11:09:33+00:00",
+            "modified_time": "2025-09-05T19:02:11+00:00",
             "release_time": "2024-11-22T03:42:45+00:00",
             "content_rating": [
                 "safe"
@@ -8096,7 +8096,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1252
+                "plays": 1253
             },
             "categories": [],
             "uploader": {
@@ -8208,7 +8208,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "71bd19f5382082538be63ac1ec3d22dd6167a08069b808bd73a1ab648aee39a6_1757096282"
+                        "resource_signature": "c03c0086dcc796a1b09a030ec406e3b878a686651d05af240e3a40a6e12da1aa_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/1032190915/albums",
@@ -8592,9 +8592,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -8899,9 +8899,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -9160,7 +9160,7 @@
                 "speed": true
             },
             "created_time": "2024-10-09T22:06:22+00:00",
-            "modified_time": "2025-09-04T11:25:07+00:00",
+            "modified_time": "2025-09-05T23:05:01+00:00",
             "release_time": "2024-10-09T22:06:22+00:00",
             "content_rating": [
                 "safe"
@@ -9229,7 +9229,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 2131
+                "plays": 2133
             },
             "categories": [],
             "uploader": {
@@ -9341,7 +9341,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ba9c1406593b5fd1f9d16b37d04b444997b8f6d82ea6b94f0025f6f148318600_1757096282"
+                        "resource_signature": "06f6a0753f27c8b95390dfb71e6a9a2dbdd1ae54b48dfeb2802a28ef38ab2707_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/1018100840/albums",
@@ -9725,9 +9725,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -10032,9 +10032,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -10474,7 +10474,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a2a6627fdaa0790f21b3c9931b305c1fb0fb12433389689a7a276eee263abeb7_1757096282"
+                        "resource_signature": "80ab257778b3348d93fa5614c0c0c496fffc5433e48a51b624be9853746b4cb9_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/999317006/albums",
@@ -10858,9 +10858,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -11165,9 +11165,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -11607,7 +11607,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7829f7f191b054188e9916b3b96836f820952ab9206222c0be09821cfd9f55b5_1757096282"
+                        "resource_signature": "82d06b09b7b01bf13c31fc5379955403fa573aabbdad86399f3b2a7b7b8fd72d_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953760003/albums",
@@ -11991,9 +11991,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -12298,9 +12298,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -12740,7 +12740,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d8a5e634c3d3d526631235d8dc104b8d7ffcadecbce7bbcbcef4965c68788dfb_1757096282"
+                        "resource_signature": "020345646c8cac73e169876c8b717bb1bbfb6dfdd36ffeb2831f0246aac7a29b_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953759893/albums",
@@ -13124,9 +13124,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -13431,9 +13431,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -13873,7 +13873,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "45114879162c5b3cb8bab44676503cab1745983b836b4b45150b7ac678519bb2_1757096282"
+                        "resource_signature": "0f7336a9dd435d0cfcaa3fb61f31d4935c6a13fe5f4d10f1206dd66061d280f1_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953759842/albums",
@@ -14257,9 +14257,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -14564,9 +14564,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -14825,7 +14825,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:11:25+00:00",
-            "modified_time": "2025-09-04T10:36:33+00:00",
+            "modified_time": "2025-09-05T22:42:56+00:00",
             "release_time": "2024-06-05T00:11:25+00:00",
             "content_rating": [
                 "safe"
@@ -14894,7 +14894,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 2299
+                "plays": 2301
             },
             "categories": [],
             "uploader": {
@@ -15006,7 +15006,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ae7278f4ba80cbe8d898b4870705f2839ab893130ee00ad0d2f1d337fbc9740d_1757096282"
+                        "resource_signature": "99b7859efbd3c1bc78a408acb62fddf7a162e6b3e0230bd14d08f786688821f0_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953759790/albums",
@@ -15390,9 +15390,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -15697,9 +15697,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -16139,7 +16139,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "78c636516baa538af2d005ae83c40d2fb300e4bbbfaa377b2cb04ec68c858312_1757096282"
+                        "resource_signature": "372c268381b32b2e0c512ba5fdcc74e74a0f2de0529bd158c39175850b4caf88_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953759696/albums",
@@ -16523,9 +16523,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -16830,9 +16830,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -17272,7 +17272,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d9e74a0e3a64bd7ecbd7713501cb474f9c56d6c4b3656f497c7925bd3f9cc9ed_1757096282"
+                        "resource_signature": "69c7154df22615de4fa1f279e8e2e2923b71fb21fc723cd3c02cf65477185d8a_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953759643/albums",
@@ -17656,9 +17656,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -17963,9 +17963,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -18224,7 +18224,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:10:25+00:00",
-            "modified_time": "2025-08-30T05:05:36+00:00",
+            "modified_time": "2025-09-05T19:58:19+00:00",
             "release_time": "2024-06-05T00:10:25+00:00",
             "content_rating": [
                 "safe"
@@ -18293,7 +18293,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 222
+                "plays": 223
             },
             "categories": [],
             "uploader": {
@@ -18405,7 +18405,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ca460c73107cd3ac5eb509dd651a6689934a46819fc0c881c16ed4c09664aee6_1757096282"
+                        "resource_signature": "f3225103c72a19fb00709f5dc4b6006839477384cc16f9716c2cd30db8f8f46a_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953759597/albums",
@@ -18789,9 +18789,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -19096,9 +19096,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -19538,7 +19538,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "1f4fcc273d1d553fbc4459be1ef1c18e4e775cfa4031f59a1ab0401cf5dbb424_1757096282"
+                        "resource_signature": "9139624a13c382863ec2a0fe48fdbaf93072d92a560503fc765ce6e2825ae40d_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953759468/albums",
@@ -19922,9 +19922,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -20229,9 +20229,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -20490,7 +20490,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:09:31+00:00",
-            "modified_time": "2025-09-05T06:23:40+00:00",
+            "modified_time": "2025-09-05T23:04:30+00:00",
             "release_time": "2024-06-05T00:09:31+00:00",
             "content_rating": [
                 "safe"
@@ -20559,7 +20559,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 2322
+                "plays": 2324
             },
             "categories": [],
             "uploader": {
@@ -20671,7 +20671,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "be6b4399ab9509a87c9727648a0a99a335dc7742c621b0e168fd3a3b168ca30c_1757096282"
+                        "resource_signature": "6605b92a3348b1ce35f0321921b3a3d25600b71b1076e71167c21062c0523e9f_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953759411/albums",
@@ -21055,9 +21055,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -21362,9 +21362,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -21804,7 +21804,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4b6fd76d24f5a6b665a2f365fb8a9562fea38f0184a207130ca1cb45d88562bb_1757096282"
+                        "resource_signature": "9b1091cb315f93f69aa9c52b51293b21cdcff6afccb378338b00a29bb0deccf6_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953759090/albums",
@@ -22188,9 +22188,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -22495,9 +22495,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -22756,7 +22756,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:07:09+00:00",
-            "modified_time": "2025-09-04T10:58:23+00:00",
+            "modified_time": "2025-09-05T22:32:56+00:00",
             "release_time": "2024-06-05T00:07:09+00:00",
             "content_rating": [
                 "safe"
@@ -22825,7 +22825,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 2249
+                "plays": 2251
             },
             "categories": [],
             "uploader": {
@@ -22937,7 +22937,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0c41252e32dcaa97a1ca2ee0ee98cefc1fb157e93b26784dbb139a05f177d603_1757096282"
+                        "resource_signature": "7bee48f0938acc543d267ddd0ed4354b99b34ee15dc0f48e9a485a818a880dc4_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953758935/albums",
@@ -23321,9 +23321,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -23628,9 +23628,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -24070,7 +24070,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "af3fe7aea01b324089f24115b5ecaec6556a2ec5e2277f5df94204ce0ae71910_1757096282"
+                        "resource_signature": "d0415d5347ba28c60e56896681049153b6396384d18531cdd4a933d8fd8f8fbd_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953758897/albums",
@@ -24454,9 +24454,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -24761,9 +24761,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -25203,7 +25203,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3f82400ac85c308639341e3640c14b12610b754831a24fbd9f1d4cb6ac1f0f82_1757096282"
+                        "resource_signature": "751fd4b267da79b45110702d9a01f04ef7133c52c306950d8215198338f74720_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953758763/albums",
@@ -25587,9 +25587,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -25894,9 +25894,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -26155,7 +26155,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:05:31+00:00",
-            "modified_time": "2025-09-04T10:51:03+00:00",
+            "modified_time": "2025-09-05T19:29:09+00:00",
             "release_time": "2024-06-05T00:05:31+00:00",
             "content_rating": [
                 "safe"
@@ -26224,7 +26224,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1519
+                "plays": 1521
             },
             "categories": [],
             "uploader": {
@@ -26336,7 +26336,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "49ff2b6c46228319b2ccd62e78a8662a6c643759a5d3ddb14631574dc5393d60_1757096282"
+                        "resource_signature": "bdad3fdc6d047eadd2fa9200f6da3b10407acee6221c5a751c8ad8bdd8eeab08_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953758621/albums",
@@ -26720,9 +26720,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -27027,9 +27027,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
@@ -27288,7 +27288,7 @@
                 "speed": true
             },
             "created_time": "2024-06-04T04:07:48+00:00",
-            "modified_time": "2025-09-04T11:19:46+00:00",
+            "modified_time": "2025-09-05T18:44:03+00:00",
             "release_time": "2024-06-04T04:07:48+00:00",
             "content_rating": [
                 "safe"
@@ -27357,7 +27357,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1420
+                "plays": 1421
             },
             "categories": [],
             "uploader": {
@@ -27469,7 +27469,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3ab97e840023f8eb7bba9ec91012199d3d3eb5f46c57ca004e4616c515c7b085_1757096282"
+                        "resource_signature": "45c85bb7bab124e2471e3ef7abe00cdd8d36934a87f1aeca7c44679ce3f22cba_1757119706"
                     },
                     "albums": {
                         "uri": "/videos/953402881/albums",
@@ -27853,9 +27853,9 @@
                         "rating": [
                             "safe"
                         ],
-                        "clip_autocc_enabled_by_default": true,
+                        "autocc_display_enabled_by_default": true,
                         "license": null,
-                        "hide_stats": 0,
+                        "hide_stats": false,
                         "privacy": {
                             "view": "anybody",
                             "comments": "anybody",
@@ -28160,9 +28160,9 @@
                             "rating": [
                                 "safe"
                             ],
-                            "clip_autocc_enabled_by_default": true,
+                            "autocc_display_enabled_by_default": true,
                             "license": null,
-                            "hide_stats": 0,
+                            "hide_stats": false,
                             "privacy": {
                                 "view": "anybody",
                                 "comments": "anybody",
