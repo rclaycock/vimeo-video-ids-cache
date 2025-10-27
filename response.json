@@ -96,7 +96,7 @@
                 "speed": true
             },
             "created_time": "2025-10-09T22:01:19+00:00",
-            "modified_time": "2025-10-26T10:30:16+00:00",
+            "modified_time": "2025-10-27T18:09:21+00:00",
             "release_time": "2025-10-09T22:01:19+00:00",
             "content_rating": [
                 "safe"
@@ -165,7 +165,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 19
+                "plays": 21
             },
             "categories": [],
             "uploader": {
@@ -277,7 +277,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f24c77e14e6c7bef97d39182f15e8f9876935350ebd620983f2da3729bc8a1fc_1761567891"
+                        "resource_signature": "534ea967968b7b0dd393355dc13d9ece02838dccf7ae6c50abd783439d02d6b2_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -422,7 +422,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -1001,7 +1003,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0ee23be8c3bdfe1080881ac45d2c313a235077e34243b879caf3de8ed55ca591_1761567891"
+                        "resource_signature": "c778376378bd8bfd7d17001cb694a4df96129d02609cdd9defb3079f9fbdc368_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1125730381/albums",
@@ -1146,7 +1148,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -1446,7 +1450,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -1939,7 +1945,7 @@
                 "speed": true
             },
             "created_time": "2025-10-09T01:50:18+00:00",
-            "modified_time": "2025-10-26T10:57:31+00:00",
+            "modified_time": "2025-10-27T17:23:29+00:00",
             "release_time": "2025-10-09T01:50:18+00:00",
             "content_rating": [
                 "safe"
@@ -2008,7 +2014,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 20
+                "plays": 22
             },
             "categories": [],
             "uploader": {
@@ -2120,7 +2126,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f36a942f847f357d70103fe7d504cf6ade2496ba04fd61ded7d00666ad88476a_1761567891"
+                        "resource_signature": "8ac592eff80459c0b4be87c2fa3714578806a84c8c073ecb8b810a0d9944d40d_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -2265,7 +2271,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -2565,7 +2573,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -3239,7 +3249,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c88d1c017bd772fa6770d965d6ba80b17e29f47905702eb682970965e598af69_1761567891"
+                        "resource_signature": "0f90bf2e771d13d14f1cce3616401c3b159b192c511c4831d9ac84f0a24c1e12_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -3384,7 +3394,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -3684,7 +3696,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -4358,7 +4372,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "6728aabc6d1ad51dd332a8f82356c786d3f4cfd0dd45526c17c45719801d9782_1761567891"
+                        "resource_signature": "3732e722393f4289d68dba99cc520edb5b3c56bbbd19c9edd526cce2572e086c_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
@@ -4503,7 +4517,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -4803,7 +4819,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -5296,7 +5314,7 @@
                 "speed": true
             },
             "created_time": "2025-04-23T04:12:45+00:00",
-            "modified_time": "2025-10-27T01:17:16+00:00",
+            "modified_time": "2025-10-27T17:15:21+00:00",
             "release_time": "2025-04-23T04:12:45+00:00",
             "content_rating": [
                 "safe"
@@ -5365,7 +5383,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 176
+                "plays": 179
             },
             "categories": [],
             "uploader": {
@@ -5477,7 +5495,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ae46ab59ad836e959f1bd884e9b738efb21140ba8fbd4683c3871ec7017af973_1761567891"
+                        "resource_signature": "a02cda3a4d62f4d3828d66967f68863a7d1c2c9a6540e88c5750a6a4f9f31d29_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1077826426/albums",
@@ -5622,7 +5640,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -5922,7 +5942,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -6415,7 +6437,7 @@
                 "speed": true
             },
             "created_time": "2025-02-17T06:06:24+00:00",
-            "modified_time": "2025-10-27T09:17:04+00:00",
+            "modified_time": "2025-10-27T17:53:08+00:00",
             "release_time": "2025-02-17T06:06:24+00:00",
             "content_rating": [
                 "safe"
@@ -6484,7 +6506,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 247
+                "plays": 250
             },
             "categories": [],
             "uploader": {
@@ -6596,7 +6618,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "cd51d2c1b47d1ce93ba4d3f871160b93529193b253259bdecd5dfa8cc5ad1a74_1761567891"
+                        "resource_signature": "c31925f8f914edeca8adef88f5674409a77a34760296e2a559a00691e27febc1_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1057396137/albums",
@@ -6741,7 +6763,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -7041,7 +7065,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -7534,7 +7560,7 @@
                 "speed": true
             },
             "created_time": "2025-02-13T04:17:05+00:00",
-            "modified_time": "2025-10-27T00:38:12+00:00",
+            "modified_time": "2025-10-27T18:02:25+00:00",
             "release_time": "2025-02-13T04:17:05+00:00",
             "content_rating": [
                 "safe"
@@ -7603,7 +7629,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1316
+                "plays": 1318
             },
             "categories": [],
             "uploader": {
@@ -7715,7 +7741,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "03b0406485d1cdc0f7aa75fbbea48c83f5a0562ce79216c7de92f7ba22649c89_1761567891"
+                        "resource_signature": "5cb788a5f6aa1696d3d95d0392d66c78daf8d539da9f8a2a34eff71a5a9449ad_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1056244534/albums",
@@ -7860,7 +7886,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -8160,7 +8188,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -8834,7 +8864,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d77379bbfa555b665c2790f4141953b1710d0cbc35aa772ecab474ec418dba18_1761567891"
+                        "resource_signature": "3187b7cc771b8fd17468d5c4edc2ff7d25a94489d3a3ff0ba256b205bb97bff3_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1055455017/albums",
@@ -8979,7 +9009,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -9279,7 +9311,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -9953,7 +9987,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "077848e17118391f8f37e8708ad44e06b347f2997908133e090fdd8a852295d5_1761567891"
+                        "resource_signature": "df1111a859f7f62b96b5a0de8d0749e22031d4480a10db8ba064d7f15abc363a_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1054034457/albums",
@@ -10098,7 +10132,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -10398,7 +10434,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -10891,7 +10929,7 @@
                 "speed": true
             },
             "created_time": "2025-01-13T06:44:42+00:00",
-            "modified_time": "2025-10-27T06:57:34+00:00",
+            "modified_time": "2025-10-27T18:13:56+00:00",
             "release_time": "2025-01-13T06:44:42+00:00",
             "content_rating": [
                 "safe"
@@ -10960,7 +10998,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 2218
+                "plays": 2220
             },
             "categories": [],
             "uploader": {
@@ -11072,7 +11110,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "33ddfdd9d8271a37d02a4ae65b30666b3e989be7d88dd311179baa385cbb2588_1761567891"
+                        "resource_signature": "e5fe85d8955f76f6bbcca10e7d872be3cb685d8ba44d8c54f6f4633efdeaf093_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1046309793/albums",
@@ -11217,7 +11255,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -11517,7 +11557,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -12191,7 +12233,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a8cd221b16ca20eac8be515f012ed6c19e928ecbba185b7d0fa5cf6b02950c31_1761567891"
+                        "resource_signature": "1488a34cf67bbd63fc990a22b081418923435b781b7e65c8c5bac97fe627e9dd_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1033035654/albums",
@@ -12336,7 +12378,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -12636,7 +12680,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -13129,7 +13175,7 @@
                 "speed": true
             },
             "created_time": "2024-11-22T03:42:45+00:00",
-            "modified_time": "2025-10-27T01:24:31+00:00",
+            "modified_time": "2025-10-27T17:16:49+00:00",
             "release_time": "2024-11-22T03:42:45+00:00",
             "content_rating": [
                 "safe"
@@ -13198,7 +13244,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 1345
+                "plays": 1348
             },
             "categories": [],
             "uploader": {
@@ -13310,7 +13356,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4dac3a38326aac002a5ff44332bab4be528d75855ed3f2cf6d12ae11704820ab_1761567891"
+                        "resource_signature": "b92b20c7c6470e6edffe64c16989f2afb3479046be11fe4eed6fdeffcc1e904b_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1032190915/albums",
@@ -13455,7 +13501,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -13755,7 +13803,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -14248,7 +14298,7 @@
                 "speed": true
             },
             "created_time": "2024-10-09T22:06:22+00:00",
-            "modified_time": "2025-10-27T06:38:02+00:00",
+            "modified_time": "2025-10-27T17:31:32+00:00",
             "release_time": "2024-10-09T22:06:22+00:00",
             "content_rating": [
                 "safe"
@@ -14317,7 +14367,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 2295
+                "plays": 2297
             },
             "categories": [],
             "uploader": {
@@ -14429,7 +14479,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "95e87f4f7652551a894582ff7d152b144b68e47ca4574459b8f1acca5ffac4b3_1761567891"
+                        "resource_signature": "67a8990c736c5581f38c88761030cdb695e18da8342141949a40f9d6d4f41fc6_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/1018100840/albums",
@@ -14574,7 +14624,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -14874,7 +14926,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -15548,7 +15602,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ea77d60bce08bfa3d82836da7259cba208a172cf45253e00d8a8d1512c6bc55d_1761567891"
+                        "resource_signature": "5cf322732018f0b0914b0f4be842b27a6429d7efe4edc734a9ddf25101e1602e_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/999317006/albums",
@@ -15693,7 +15747,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -15993,7 +16049,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -16667,7 +16725,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "352d486cae962d065671c63f04348b569b06f32af638da804705b3b4e74c4010_1761567891"
+                        "resource_signature": "f1d9932e1092954fc83775133821c7c9713d63d72b179237077ca59cc6672007_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/953760003/albums",
@@ -16812,7 +16870,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -17112,7 +17172,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -17786,7 +17848,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "21e1e6e39dd207cbd27d3dad27824e7456306b9d201291a99607d491dc3e6860_1761567891"
+                        "resource_signature": "135296680c746a29ae1d2f06f0b3ebea8c55c0e70a335cb5e17be3c6861efc87_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/953759893/albums",
@@ -17931,7 +17993,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -18231,7 +18295,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -18905,7 +18971,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "5ac4860618f89ee6195e24750c8d8ec67c801aa38472a61471948a88812bbaea_1761567891"
+                        "resource_signature": "d9d0c505e381e0caa4b46c558548a8dc237a733bb74950e8142bd2de1d25d40f_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/953759842/albums",
@@ -19050,7 +19116,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -19350,7 +19418,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -20024,7 +20094,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "86f2963cd934c28c147e92cc25004d327ada8c39ab59464a2bc99f82b091ae90_1761567891"
+                        "resource_signature": "4bba74d33a0f40ebce9e8afa6c1cc6dcbdfed88d00070ffbec825f8c0d07d32b_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/953759790/albums",
@@ -20169,7 +20239,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -20469,7 +20541,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -21143,7 +21217,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8fa91d93374c3397912b67f7e5f2bbab0b0b6223bb03bd4ee0d0a5ed46830030_1761567891"
+                        "resource_signature": "21d2c2ea92eb8665a91ba653397247a6c2b29fa0b0ce671d453f804745a15bfe_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/953759696/albums",
@@ -21288,7 +21362,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -21588,7 +21664,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -22262,7 +22340,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "db80c49bfa030d7d0d7d2dfb84e5833d522087f48c6ef20a9d1e6a317aad7fe4_1761567891"
+                        "resource_signature": "843df173ebfd287b9a0078bebe7e58d5c6aa7b8f09b9849303eea18799332051_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/953759643/albums",
@@ -22407,7 +22485,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -22707,7 +22787,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -23381,7 +23463,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "97d02c56330b61b701e4629f3b5db420d8a8c57e6b037771525886f41a5b3b85_1761567891"
+                        "resource_signature": "a203bcc2ab1714f0184730486c97e93b4fc572ce4ac127168366b4831a88a0fc_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/953759597/albums",
@@ -23526,7 +23608,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -23826,7 +23910,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -24319,7 +24405,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:09:52+00:00",
-            "modified_time": "2025-10-26T11:23:28+00:00",
+            "modified_time": "2025-10-27T17:30:10+00:00",
             "release_time": "2024-06-05T00:09:52+00:00",
             "content_rating": [
                 "safe"
@@ -24388,7 +24474,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 762
+                "plays": 763
             },
             "categories": [],
             "uploader": {
@@ -24500,7 +24586,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d86ca507a8e5f7ce6c1ff12d04dd7aead5c5b4cc983c34842d944b2224f53971_1761567891"
+                        "resource_signature": "ef4b64f8e2a028fe5ca5d7c5c8cb1b91e6aa82d3b620c4f2d10d4b5269a17071_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/953759468/albums",
@@ -24645,7 +24731,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -24945,7 +25033,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -25619,7 +25709,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7d07a1956021d9a7a43c53197e66d5d249d6aa4a14969a6468a50fe6bb8b0a57_1761567891"
+                        "resource_signature": "23b543e67dcb1f87a267eded26afb4395ad7f802746a6357e1156cc1b71fad85_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/953759411/albums",
@@ -25764,7 +25854,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -26064,7 +26156,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -26738,7 +26832,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ffe16d5ec524f9c4611a69875e19e4a301d5f698707d2322b8a688e2876f158b_1761567891"
+                        "resource_signature": "f22d63124e6421607bcd7e62e85e55bd48b8883d691b85361f0e2b062504d5ac_1761589196"
                     },
                     "albums": {
                         "uri": "/videos/953759090/albums",
@@ -26883,7 +26977,9 @@
                 "uri": "/users/134679946",
                 "name": "Rupert Laycock Photography",
                 "link": "https://vimeo.com/user134679946",
-                "capabilities": [],
+                "capabilities": {
+                    "hasLiveSubscription": false
+                },
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -27183,7 +27279,9 @@
                     "uri": "/users/134679946",
                     "name": "Rupert Laycock Photography",
                     "link": "https://vimeo.com/user134679946",
-                    "capabilities": [],
+                    "capabilities": {
+                        "hasLiveSubscription": false
+                    },
                     "location": "",
                     "gender": "m",
                     "bio": null,
