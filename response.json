@@ -277,7 +277,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8294576fed90b49e7106f6c67fcc80930b51e29def49bdc32c5136caa8955a8b_1762193972"
+                        "resource_signature": "9f33be37f9c8726570b07008f5a65129f4e575410f6c9b9cbd23853f4cc8f086_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -381,6 +381,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -1003,7 +1004,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c09cf7edd4729dc80dab996be95c40f2bb93aaedf38ace31b907542248318d49_1762193972"
+                        "resource_signature": "e9ef8a338197a93ee79802d4c77f6f5a6d9841e53ab2d6036599dd0c8ada0abb_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1125730381/albums",
@@ -1107,6 +1108,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -1945,7 +1947,7 @@
                 "speed": true
             },
             "created_time": "2025-10-09T01:50:18+00:00",
-            "modified_time": "2025-10-28T09:31:33+00:00",
+            "modified_time": "2025-11-03T18:34:53+00:00",
             "release_time": "2025-10-09T01:50:18+00:00",
             "content_rating": [
                 "safe"
@@ -2014,7 +2016,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 23
+                "plays": 24
             },
             "categories": [],
             "uploader": {
@@ -2126,7 +2128,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c6be9e1fb8c32dc7ab51ea9c409ae821471f4cefa07c3086abff1c485f714977_1762193973"
+                        "resource_signature": "5397eb3bd9faa3a8456d090a9259fd23715bbeccb69fab92c92c2e8db4c3c906_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -2230,6 +2232,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -3249,7 +3252,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "69a61162b35261710be5105377dec0999731d9d0235c1ff054d125ecb007a2bc_1762193973"
+                        "resource_signature": "12fbfa1a76df405dbf9ed6a75fc263da3bd73a9fc13d35e65ec04e4a7730ae2a_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -3353,6 +3356,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -4372,7 +4376,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4d715dfd557f1180a92d6afd486dfd8777a9a46d3db7e39d941fa2078814bb64_1762193973"
+                        "resource_signature": "8a4dcb3f22226e034ac8e3fab953ae1a6ebbfa39abf6f183d54e0c31847bdea3_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
@@ -4476,6 +4480,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -5314,7 +5319,7 @@
                 "speed": true
             },
             "created_time": "2025-04-23T04:12:45+00:00",
-            "modified_time": "2025-11-02T21:02:55+00:00",
+            "modified_time": "2025-11-03T18:45:17+00:00",
             "release_time": "2025-04-23T04:12:45+00:00",
             "content_rating": [
                 "safe"
@@ -5383,7 +5388,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 185
+                "plays": 187
             },
             "categories": [],
             "uploader": {
@@ -5495,7 +5500,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0ed0e98370139b4347f1c2e9b213cfd56e6e69a5545fd7299711e9f8ae0c6028_1762193973"
+                        "resource_signature": "673af0779bb574eb4539b329c170fb674125470bc402b715e344efe60cfd510d_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1077826426/albums",
@@ -5599,6 +5604,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -6437,7 +6443,7 @@
                 "speed": true
             },
             "created_time": "2025-02-17T06:06:24+00:00",
-            "modified_time": "2025-11-02T21:26:47+00:00",
+            "modified_time": "2025-11-03T18:49:36+00:00",
             "release_time": "2025-02-17T06:06:24+00:00",
             "content_rating": [
                 "safe"
@@ -6506,7 +6512,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 258
+                "plays": 260
             },
             "categories": [],
             "uploader": {
@@ -6618,7 +6624,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "465d2a08be6e853554eab092cd3c85470fbf788edde6fe53e523e20ccdcfeb69_1762193973"
+                        "resource_signature": "f8cd451f7730c6d198842fce9bc7582c5a91f7809df229307a7222676a310a69_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1057396137/albums",
@@ -6722,6 +6728,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -7741,7 +7748,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e99750bfa4eb27fd1f7527fd9e72ad01da65b827667cb5df7735fb83a8aca592_1762193973"
+                        "resource_signature": "180c5144c83ae819f77293852cde975db1070305406d3e1585df907fe8484c77_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1056244534/albums",
@@ -7845,6 +7852,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -8683,7 +8691,7 @@
                 "speed": true
             },
             "created_time": "2025-02-11T05:04:41+00:00",
-            "modified_time": "2025-11-03T04:39:26+00:00",
+            "modified_time": "2025-11-03T18:25:21+00:00",
             "release_time": "2025-02-11T05:04:41+00:00",
             "content_rating": [
                 "safe"
@@ -8752,7 +8760,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 2338
+                "plays": 2340
             },
             "categories": [],
             "uploader": {
@@ -8864,7 +8872,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "dba38ebbbf9699f24bec815d1deea820d401dd0cfb0ee9f5226c5e52ebd75998_1762193973"
+                        "resource_signature": "90f3088078c8e19f0dcfa7042748156c35345903abc3ccbcb96d334897a76b6e_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1055455017/albums",
@@ -8968,6 +8976,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -9987,7 +9996,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "60b45dbfb66820ffa965d74f8886f5c6aa4a424b541010e50bb1325fa39f1dc6_1762193973"
+                        "resource_signature": "4a1e0ebbb40215e15a0172c9f3ced1d23bac2f0912752d95d1dedb4eeea4d77d_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1054034457/albums",
@@ -10091,6 +10100,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -11110,7 +11120,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "941ea46079d2ff6779b08fa2047ea2ae889f5b7d72eadc377d7280b33c7a60bd_1762193973"
+                        "resource_signature": "8382729e24f50b4f23c4b1898e664888c09a0051ad798fbb7320b389643bb7d4_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1046309793/albums",
@@ -11214,6 +11224,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -12233,7 +12244,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c8e28918701b9fd15f11bcf1ffb321936029940bb6e395215291cdb30c91e69c_1762193973"
+                        "resource_signature": "4dfada5b09acb9f0a3e419e18c22724cce0806809de793eb9dce10cfc2ec7a40_1762217589"
                     },
                     "albums": {
                         "uri": "/videos/1033035654/albums",
@@ -12337,6 +12348,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -13356,7 +13368,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a7aca12bf73d4f8dd713105f61a0ff277be696c72fa87c6ef1c65dc6b6f361d4_1762193973"
+                        "resource_signature": "0c2ca71f95cc3513633a617b8de590731130945e910fc61f9837c13f42a2bcbb_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/1032190915/albums",
@@ -13460,6 +13472,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -14479,7 +14492,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e284fb0351326976a4500f76bde30d57b350ae1dde80ffbf6281ba2874063899_1762193973"
+                        "resource_signature": "3c6c2b26b0e72968007db78878d41168705be3a055890e6aef241d109e397585_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/1018100840/albums",
@@ -14583,6 +14596,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -15602,7 +15616,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "57f45c298cc2cc0ad808b551088eb22d096af4f44bdaf38b76e6639580cc1b54_1762193973"
+                        "resource_signature": "780b752005ab9f4ed8b76f15c7adeb63835605a972566d04b30db2422fc0fc7e_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/999317006/albums",
@@ -15706,6 +15720,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -16725,7 +16740,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e92c8c0c402c7fb7756f804490e61fc5f6367fab58055bc8e642b67678ec8d3a_1762193973"
+                        "resource_signature": "52bd53f9b260c83922bebecfc1636e16f91ca1697a35294a9b7309ad6797995a_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/953760003/albums",
@@ -16829,6 +16844,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -17667,7 +17683,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:11:54+00:00",
-            "modified_time": "2025-10-28T08:38:17+00:00",
+            "modified_time": "2025-11-03T18:18:25+00:00",
             "release_time": "2024-06-05T00:11:54+00:00",
             "content_rating": [
                 "safe"
@@ -17736,7 +17752,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 614
+                "plays": 615
             },
             "categories": [],
             "uploader": {
@@ -17848,7 +17864,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d575d9bdbdb5e436cc03eae7210abae7ba61ba61adaa7ab09ebee814641d3fbe_1762193973"
+                        "resource_signature": "94b3fe5942f8fb35617b2db29d816b5b585a2b5724e86f6a827a14f6bc6fda57_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/953759893/albums",
@@ -17952,6 +17968,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -18971,7 +18988,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d38be8194aefedf60e4fcd4c884568434412b6b3fd815ca51519c1727360ec12_1762193973"
+                        "resource_signature": "c6895e9e05da315544a3bc4d55895a2be64db6fbc533ef7a2d7ff12a4eba3621_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/953759842/albums",
@@ -19075,6 +19092,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -20094,7 +20112,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a0e2988b13cdbdcc0798dc3be7727e8792fc16a925bf1ca7b92e018cbbf6e226_1762193973"
+                        "resource_signature": "6486fb77d0cad0faf9838a001a8341b1352c903c76abce4f90be45216de6809f_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/953759790/albums",
@@ -20198,6 +20216,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -21217,7 +21236,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e16c9ef244dacf27d0ba23a881518a4bcc43582a7ca07309cc1c74d01c06a1e6_1762193973"
+                        "resource_signature": "c22ed61eea83fc8f145aba5d43027e7b544d0b0f00d198ead13d4f89f8373294_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/953759696/albums",
@@ -21321,6 +21340,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -22340,7 +22360,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "81b155761ea00a65aed17df9a8943cc4fb82ae96b3df16d6843c700c6df62ad8_1762193973"
+                        "resource_signature": "bc297ac586a02c837a7a6096e1f420717da4887ee138d42b5f0c00efcff248af_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/953759643/albums",
@@ -22444,6 +22464,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -23463,7 +23484,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3d103171640cac78947a3f04298ac62855ccffdc56d49ba2dab3b9fb0829c77b_1762193973"
+                        "resource_signature": "16ae0ce526c5271a6b24cbdf4ce5b1052f225aef17d9e9537b9c93a0d6529299_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/953759597/albums",
@@ -23567,6 +23588,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -24405,7 +24427,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:09:52+00:00",
-            "modified_time": "2025-10-28T08:40:17+00:00",
+            "modified_time": "2025-11-03T18:34:38+00:00",
             "release_time": "2024-06-05T00:09:52+00:00",
             "content_rating": [
                 "safe"
@@ -24474,7 +24496,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 764
+                "plays": 765
             },
             "categories": [],
             "uploader": {
@@ -24586,7 +24608,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ed2c167f336203aa2c9f24d98338de80f60fe329a6f8e62a4e4a4463120ccfe7_1762193973"
+                        "resource_signature": "19eea075820a644a84013d82e69c3560538e074151a1d0778219fed4818926d1_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/953759468/albums",
@@ -24690,6 +24712,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -25528,7 +25551,7 @@
                 "speed": true
             },
             "created_time": "2024-06-05T00:09:31+00:00",
-            "modified_time": "2025-11-03T04:50:57+00:00",
+            "modified_time": "2025-11-03T18:30:29+00:00",
             "release_time": "2024-06-05T00:09:31+00:00",
             "content_rating": [
                 "safe"
@@ -25597,7 +25620,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 2483
+                "plays": 2484
             },
             "categories": [],
             "uploader": {
@@ -25709,7 +25732,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "dc4a7b07d1c731cadf16b119ed91c11afd3cf547ca2b6c14f86b6d8dd88121ae_1762193973"
+                        "resource_signature": "2177bdb70157230b74fdf75955780d18af298ee8185d7bc2dbdf7aa4b8ba1ae5_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/953759411/albums",
@@ -25813,6 +25836,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
@@ -26832,7 +26856,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e085919fd6774c0c34a4974bab2281ad6db20b062f1f4d7e9c5309d989ae19dd_1762193973"
+                        "resource_signature": "201fb6017ca5d866d28053385de9a5c4bb212c55ed5e20665b386c27a54a4253_1762217590"
                     },
                     "albums": {
                         "uri": "/videos/953759090/albums",
@@ -26936,6 +26960,7 @@
                                 "options": [
                                     "anybody",
                                     "nobody",
+                                    "team",
                                     "password",
                                     "disable",
                                     "unlisted"
