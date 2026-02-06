@@ -96,7 +96,7 @@
                 "speed": true
             },
             "created_time": "2025-10-09T22:01:19+00:00",
-            "modified_time": "2026-02-06T01:40:37+00:00",
+            "modified_time": "2026-02-06T11:13:52+00:00",
             "release_time": "2025-10-09T22:01:19+00:00",
             "content_rating": [
                 "safe"
@@ -165,7 +165,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 145
+                "plays": 146
             },
             "categories": [],
             "uploader": {
@@ -277,7 +277,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "34b304d8edadefc464bad4aada09616c6fc750b186527e9e5cd592b66e8eb17a_1770360236"
+                        "resource_signature": "d9364cad461616068f4ec54d75776fed08bb85d3fdceae9a53dc97f0e139e040_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -700,7 +700,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -1004,7 +1005,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4d6811486896b4abb23ceac17d84ee2e67ccf74104110ab10610568f90453522_1770360236"
+                        "resource_signature": "956b7bfe04369f8c44bbd7d0c9294c69d1b2296c2d2ecf5f1d09ad72484b7583_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1125730381/albums",
@@ -1427,7 +1428,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -1729,7 +1731,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -1947,7 +1950,7 @@
                 "speed": true
             },
             "created_time": "2025-10-09T01:50:18+00:00",
-            "modified_time": "2026-02-05T18:35:50+00:00",
+            "modified_time": "2026-02-06T11:38:36+00:00",
             "release_time": "2025-10-09T01:50:18+00:00",
             "content_rating": [
                 "safe"
@@ -2016,7 +2019,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 153
+                "plays": 154
             },
             "categories": [],
             "uploader": {
@@ -2128,7 +2131,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a73b1db80041ba0617409f7793a6bc455db7931b87478a2b6436337827f1a531_1770360236"
+                        "resource_signature": "344bf515397ed2b7606330cf4d1eabe7a3798484331a865f63e6065f348f6a1c_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -2551,7 +2554,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -2853,7 +2857,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -3252,7 +3257,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "76350ded990731a484f75c7be0f3949d4159000283a53aa9b440e7c7143157c1_1770360236"
+                        "resource_signature": "e5d2c1d793d6967962925f0074ba80c65ea0f9b6d4b63c9b59266cbcd144f50f_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -3675,7 +3680,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -3977,7 +3983,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -4376,7 +4383,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7a3547a9b97db4b502adb88dc509680633b6d8886097029b7d919c3e2082ceb9_1770360236"
+                        "resource_signature": "d7c532a56fa4dd4c8eee39c9b3ffc88548f9ceca7f25822f7658cbbc1b1d406f_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
@@ -4799,7 +4806,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -5101,7 +5109,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -5500,7 +5509,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0ab209a820f66838d2b88d3dee48a00d674ca29864b7958812b8731f9f33dec1_1770360236"
+                        "resource_signature": "3df28e051d8cc0b9dfbfd4d418b375b937f800a9457298c85600b3400348201f_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1077826426/albums",
@@ -5923,7 +5932,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -6225,7 +6235,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -6624,7 +6635,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8173309d8f396d9a2fa1158b1ebddc4b991aa01e3ab77e5827f99ad9eb3e8500_1770360236"
+                        "resource_signature": "86ae54ef0528b52ae9d03861187749c5c3f1ea871674f58b8d114fda9f64cb7b_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1057396137/albums",
@@ -7047,7 +7058,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -7349,7 +7361,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -7748,7 +7761,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8e72436a42ca80a65f1486262118b6d8ddfdd1db8e89c5e41a50cb1e51cffebe_1770360236"
+                        "resource_signature": "1df360ebeca7dbd370250f70419788e2c591d5b5f61ae98e65bfa5ae55837817_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1056244534/albums",
@@ -8171,7 +8184,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -8473,7 +8487,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -8872,7 +8887,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "31ee44e56817d8fd6bcb6750c2aca4f414423ec71943237b8c0a402308953fff_1770360236"
+                        "resource_signature": "f97a871850a5b1237efee0f4e7d2fdec1e7f31741f885f53a4d0d4ba9129f27e_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1055455017/albums",
@@ -9295,7 +9310,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -9597,7 +9613,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -9996,7 +10013,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "082dae826ecfaa695263b6b6e72879704ca9adb885e1fa2b3253cd0b7fe375dd_1770360236"
+                        "resource_signature": "93007f0a8902df25ffb6b67f99e1240d32fd53a22ad18e2a5d1a3e429ddb8408_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1054034457/albums",
@@ -10419,7 +10436,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -10721,7 +10739,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -11120,7 +11139,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d8217daf2463fe7e9d01551f8d06c490ec6d86db276c6ec4c828ef050206cc6f_1770360236"
+                        "resource_signature": "5dd2d425b2d2661241975539069449c0f53c8b1d95c7815f6a0e02d2c249048d_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1046309793/albums",
@@ -11543,7 +11562,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -11845,7 +11865,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -12244,7 +12265,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "11c289f26453111e72277954d7429eecb906d63cb1ada0464608ca4fbff8f458_1770360236"
+                        "resource_signature": "013e12da7295e3a7701a89861bdb9ffe61bc4ee7bb05c888ce27c8221a25e16c_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1033035654/albums",
@@ -12667,7 +12688,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -12969,7 +12991,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -13368,7 +13391,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "561a4f01e8b91eb6cc889e0ab062e1fcc96bab482bc4ffdbfa3de19ca9ee2ba7_1770360236"
+                        "resource_signature": "d78610a90681b6beed82d4d10c0bc3b8ae5d6816e8450b501a6198c6ad32dbea_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1032190915/albums",
@@ -13791,7 +13814,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -14093,7 +14117,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -14492,7 +14517,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "04e70a2a8db7de9b3873f371cf1d08d5a05d393ff4b57201c1ea4dbf6376d105_1770360236"
+                        "resource_signature": "e57af77a0f6cb9530b5c299e60d5a1cd56463d33c65238cd01cfe549fee0fbe5_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/1018100840/albums",
@@ -14915,7 +14940,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -15217,7 +15243,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -15616,7 +15643,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "5800af19ef8afe19f0bdadc0436a6f3bfcb741d43a5ee74cb21cdffea840b8c5_1770360236"
+                        "resource_signature": "49f665191541e5689a9be7a4e67e375db1f171acf6ffe46dbaa9f4a4e7a9ae12_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/999317006/albums",
@@ -16039,7 +16066,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -16341,7 +16369,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -16740,7 +16769,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "76c7d85f8d5cb68826874cbaee3a53203b0144f7e53863523170a30a52903b7c_1770360236"
+                        "resource_signature": "1e14cc0d1d35147f3b023830ff90a760d504099d9d8f2c1258cd38d0e6347047_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/953760003/albums",
@@ -17163,7 +17192,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -17465,7 +17495,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -17864,7 +17895,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "70c2700a5c57c89f0d95b3bdca980924ed0297749ba10ec17568e508c28ca884_1770360236"
+                        "resource_signature": "b4b6bd1fef498a68ddaa068b2fe268c3d616994a85743e8ac52e963c282cb9bb_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/953759893/albums",
@@ -18287,7 +18318,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -18589,7 +18621,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -18988,7 +19021,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "bbf06ad3570348b431b18d451a62d14a8d9d22425ddfbe3ee13ddc70d44af203_1770360236"
+                        "resource_signature": "ff3f49710586a61d277936d896079a0f01cce73a2ae26f4ea20b2f73c8793d27_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/953759842/albums",
@@ -19411,7 +19444,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -19713,7 +19747,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -20112,7 +20147,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a8d186bf5271b5c0f26e29220d7e1bbd58e4328648de0ae0687eaa013fff1c64_1770360237"
+                        "resource_signature": "2463851822a14e117846a78149eea2cbe9d4b76b12f9af3495ad08a5c865d47c_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/953759790/albums",
@@ -20535,7 +20570,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -20837,7 +20873,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -21236,7 +21273,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "84c55bc57a5dd6c92b49d6441ad9e440a1e189292c6963f378fb8bb69e59f4f0_1770360237"
+                        "resource_signature": "85615ec2aa29e95dcd83ca6db6149eae8f91974aa69d662842cbdc52bb8625dc_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/953759696/albums",
@@ -21659,7 +21696,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -21961,7 +21999,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -22360,7 +22399,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a4e709d5ace48a82447e095cfa7ff204b404dc3a234cb1a593ac30d324bc407b_1770360237"
+                        "resource_signature": "956b77687274a98a9e0ed394ffbc3cc143fb458f3fa973d86212668def1d9de7_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/953759643/albums",
@@ -22783,7 +22822,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -23085,7 +23125,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -23484,7 +23525,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "2837d6f5302d16d0f18ddb46f8eabe9778bb165c8161c331163798a649291cce_1770360237"
+                        "resource_signature": "4e7631e96b90573eb8d1c78b04fd3c1df5172d00dceebef24397f4e350226024_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/953759597/albums",
@@ -23907,7 +23948,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -24209,7 +24251,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -24608,7 +24651,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "5e1de1ce4740f059a57cb4e3b94ae01efc1422d678d1ce888ae5fda1fed0bcf6_1770360237"
+                        "resource_signature": "30b74801cd195d8517ab1c0bf5145557e9a385ff11c303dddda9dbabc2168f14_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/953759468/albums",
@@ -25031,7 +25074,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -25333,7 +25377,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -25732,7 +25777,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4b6702608838f064b750c11005fc7a59a377806c585d73b80bdf2a1b9aa118eb_1770360237"
+                        "resource_signature": "4d1f54da86bcaeba783f02cd7b2075225b69542a8aaada21d145d88841c3ef62_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/953759411/albums",
@@ -26155,7 +26200,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -26457,7 +26503,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
@@ -26856,7 +26903,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4f90cba0328149109619267d0c3dafb3b63777cc2254db12c2b5148cb0063871_1770360237"
+                        "resource_signature": "cf8767a74f45bec315c9826e07706179c5853b19d049f449810e51b49724810b_1770381473"
                     },
                     "albums": {
                         "uri": "/videos/953759090/albums",
@@ -27279,7 +27326,8 @@
                         "free": 2190603292558,
                         "max": 2199023255552,
                         "used": 8419962994
-                    }
+                    },
+                    "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                 "account": "plus"
@@ -27581,7 +27629,8 @@
                             "free": 2190603292558,
                             "max": 2199023255552,
                             "used": 8419962994
-                        }
+                        },
+                        "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
                     "account": "plus"
