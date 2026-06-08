@@ -97,7 +97,7 @@
                 "speed": true
             },
             "created_time": "2026-05-15T03:58:22+00:00",
-            "modified_time": "2026-06-07T02:44:34+00:00",
+            "modified_time": "2026-06-08T13:36:51+00:00",
             "release_time": "2026-05-15T03:58:22+00:00",
             "content_rating": [
                 "safe"
@@ -166,7 +166,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 6
+                "plays": 7
             },
             "categories": [],
             "uploader": {
@@ -278,7 +278,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "cabc38f263079d6d339a857b62434ce139825d5776a5157a6b95655f334521a8_1780913910"
+                        "resource_signature": "e6cfb76c476d29b230d02cc35b6578194ac96124d532df448d4d6b23de3c0a9c_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1192465182/albums",
@@ -702,6 +702,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -1005,6 +1006,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -1405,7 +1407,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "fca99381fb08155bc1ffae42b73cfd9d44e23fa1d9a733a906f2717cf14bf3ce_1780913910"
+                        "resource_signature": "48dafadbcc5221aecf073ff20152b427694caeec912c960a7aec8a0961599325_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1192464119/albums",
@@ -1829,6 +1831,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -2132,6 +2135,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -2532,7 +2536,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "5fae4c2dafecf83477b03a4e378ea94c0afaf550ffc60b8a17168700b1aa3c3b_1780913910"
+                        "resource_signature": "d2dfb248da96ddebcc2e30d7e3b8f20f86012d3cde43b01ded34c8c949132f61_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -2956,6 +2960,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -3259,6 +3264,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -3659,7 +3665,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "9bc3ae2bf454931294ee68bac86f093fe02c43b2923de82af55a63f11e6b4b96_1780913910"
+                        "resource_signature": "9922f27edcce49ffc6778395acb6acceb9907884e824041fef5bf255ad65c1c9_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -4083,6 +4089,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -4386,6 +4393,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -4786,7 +4794,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "bace736f69119aa42b0089f3bc251f5f42bc7350c2658b9a05572a173e4b12dd_1780913910"
+                        "resource_signature": "f7189b8e92a8d8625819c1cbb3acc1724ec6155b3968e3fb8468eff5699e4c3d_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -5210,6 +5218,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -5513,6 +5522,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -5913,7 +5923,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b99dbe022abb74ebe702c6c0b5a5b5013dda2656ed405aa0763a53d97de373f5_1780913910"
+                        "resource_signature": "1e9898aabd908f7f178f423b3821e05bb815fe54bb52ee863524a45d7337d12b_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1188898683/albums",
@@ -6337,6 +6347,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -6640,6 +6651,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -7040,7 +7052,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a2e3682aa9b0fac556e89eced8309bb2e91810f8171a3e47da221597a309b87e_1780913910"
+                        "resource_signature": "8ac17b930851b9a0cab3fbe8027ca627e0f767465c87e12531dfe189c5d2b045_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1188898597/albums",
@@ -7464,6 +7476,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -7767,6 +7780,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -8167,7 +8181,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ee6283bccfcbe3213290e78f0e9ab48a8e19506b9ba43b7364a906684776d588_1780913910"
+                        "resource_signature": "977501a4355e79657b4e304807adff9929a4d0d61fd6a68c563296cfe72551ae_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1183296606/albums",
@@ -8591,6 +8605,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -8894,6 +8909,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -9294,7 +9310,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "553fdc7e05c3083bc36dca44e8da6d3a9ba803601c1a98a2d0e23dc8efff22cc_1780913910"
+                        "resource_signature": "352bf86b2c093ceb9a0d8cb7685a5c864c4457783ca8d50a954403e391be895c_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -9718,6 +9734,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -10021,6 +10038,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -10421,7 +10439,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b53bb2e6d847e3936d357ac71948fd9aebbee57158e900126e150c1a3ac4c6a6_1780913910"
+                        "resource_signature": "3d10fe447195d6f1a28e6e2bda1244a63a716a6741ff872f0f6670bcc7d47a46_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -10845,6 +10863,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -11148,6 +11167,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -11548,7 +11568,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4abb3d12fd7e908bc82c5c03d4f33d054c23daa23edce9e964f76ab5c6e82db3_1780913910"
+                        "resource_signature": "6e4a61a83c75355b5fb90d56411e2d5d6a7362f3e1142df4006e01d7eb5cf930_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1125730381/albums",
@@ -11972,6 +11992,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -12275,6 +12296,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -12675,7 +12697,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c1cc8c102680e2e27182ac7ef0218fd2c50a5af4b1764b36379240552481d2e2_1780913910"
+                        "resource_signature": "e1035e6307728bee1c69378331aea687dedcd947ee784374abda0d4500800aa5_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -13099,6 +13121,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -13402,6 +13425,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -13802,7 +13826,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "80f0100dcefdc6179c70af2dd52e0e069005d2e6310463436ea7180349f00696_1780913910"
+                        "resource_signature": "a4f7db179a50e6ba9b210850946de2e1193c1b808455e14216763a5854f1663a_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -14226,6 +14250,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -14529,6 +14554,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -14929,7 +14955,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "cbfaef310a756174f549b870a62396019de37764090d3597f93f5bfca5277ea3_1780913910"
+                        "resource_signature": "0c1fc537df508bd50fd97aa01da851409291a7d9de7481b2db2d0681d8d8c40b_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
@@ -15353,6 +15379,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -15656,6 +15683,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -16056,7 +16084,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "be35ef1377ae449ae4f99aa6affa644d88459ceab0f6eb41b3c54daff514a63a_1780913910"
+                        "resource_signature": "767b59b8a32cfdc6ba93191c149caa62aa1d57564cffe5b87493029cb05e9671_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/1055455017/albums",
@@ -16480,6 +16508,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -16783,6 +16812,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -17183,7 +17213,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0fdbcd9bf9a03b857a1e2f20e1245f49530b01a1108b7c080f358b1cd5d9bb97_1780913910"
+                        "resource_signature": "83aca73b008ee0f87e3ad062f444e18620921340c1f014b0fbdffbf27cf052f9_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/953759696/albums",
@@ -17607,6 +17637,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -17910,6 +17941,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -18310,7 +18342,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "61a89b6f55a5b3d65e888454a08f0eb83dfbb3bbc9688c4d7543d353f7fac9bb_1780913910"
+                        "resource_signature": "93c40c83d3317f8a890560898a3074b9fcd2aa4fc50c7ebadb38a7ad710a07ef_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/953758763/albums",
@@ -18734,6 +18766,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -19037,6 +19070,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -19432,7 +19466,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f1b31af6f27cb05ac82258f8c1260d7b572ec61482bc6bd1c6589014872d5934_1780913910"
+                        "resource_signature": "c27e9bb30e69d7c9a7ff21c723ae6ef7826e023f638a71f847b17afefade2b76_1780932504"
                     },
                     "albums": {
                         "uri": "/videos/953758621/albums",
@@ -19856,6 +19890,7 @@
                         "max": 2199023255552,
                         "used": 5935947357
                     },
+                    "recently_deleted_disk_space": 5935947357,
                     "restricted": null
                 },
                 "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
@@ -20159,6 +20194,7 @@
                             "max": 2199023255552,
                             "used": 5935947357
                         },
+                        "recently_deleted_disk_space": 5935947357,
                         "restricted": null
                     },
                     "resource_key": "38d9d34cc4f60b43e10981e2058082b95980fe58",
