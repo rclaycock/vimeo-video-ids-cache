@@ -278,7 +278,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d30dd1d93261b5d145bd7b1d5d142910933a44e3e7c27c0a1369e163d2835646_1781542607"
+                        "resource_signature": "3802f1d5bb5579f205e077387cd00c2818a5eddff330abfd7d2e3ba168280951_1781556443"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -427,6 +427,7 @@
                 "capabilities": {
                     "hasLiveSubscription": false
                 },
+                "live_localization_trial_expires_on": null,
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -731,6 +732,7 @@
                     "capabilities": {
                         "hasLiveSubscription": false
                     },
+                    "live_localization_trial_expires_on": null,
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -1407,7 +1409,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "825f550183ef3d50cf0399ad84741ef4a1823c336e08e46076e47c089ffc664e_1781542607"
+                        "resource_signature": "174813f51d0226bd64c56a2bf4143b1e81a27a1980af646e6b0602fc7da4b937_1781556443"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -1556,6 +1558,7 @@
                 "capabilities": {
                     "hasLiveSubscription": false
                 },
+                "live_localization_trial_expires_on": null,
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -1860,6 +1863,7 @@
                     "capabilities": {
                         "hasLiveSubscription": false
                     },
+                    "live_localization_trial_expires_on": null,
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -2536,7 +2540,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3decbf4039be86f7af4633b4d74671562c55c751cbc1c646ff658ba719f69509_1781542607"
+                        "resource_signature": "10eed8a578599d1f2e76460c6baa1f40118b6eb6e41f36a6ddeb32b170e6eddf_1781556443"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -2685,6 +2689,7 @@
                 "capabilities": {
                     "hasLiveSubscription": false
                 },
+                "live_localization_trial_expires_on": null,
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -2989,6 +2994,7 @@
                     "capabilities": {
                         "hasLiveSubscription": false
                     },
+                    "live_localization_trial_expires_on": null,
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -3665,7 +3671,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "dce62547c57990dd0181e9d59ac64089d70e9208646f9d83ed2781c789cf104a_1781542607"
+                        "resource_signature": "ef2c32a088e348b5b08bbdf3c430926e3f4d6cb2823af757b2633112aae4ec92_1781556443"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -3814,6 +3820,7 @@
                 "capabilities": {
                     "hasLiveSubscription": false
                 },
+                "live_localization_trial_expires_on": null,
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -4118,6 +4125,7 @@
                     "capabilities": {
                         "hasLiveSubscription": false
                     },
+                    "live_localization_trial_expires_on": null,
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -4794,7 +4802,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "88911ea07ef8ca942d19d2025e854a868893acb0649afa62c6ad23656d538ac5_1781542607"
+                        "resource_signature": "75df5c54306c06ead0e979c95b399e97cf8fcad7a56b0579717fe1f24512f048_1781556443"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -4943,6 +4951,7 @@
                 "capabilities": {
                     "hasLiveSubscription": false
                 },
+                "live_localization_trial_expires_on": null,
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -5247,6 +5256,7 @@
                     "capabilities": {
                         "hasLiveSubscription": false
                     },
+                    "live_localization_trial_expires_on": null,
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -5923,7 +5933,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8b87620e73ee7e70d1cd154eefcfca8b14ad846a356e813652169d3ef98b6b0d_1781542607"
+                        "resource_signature": "accfe17339e3a592f004eb9e4ce755efc30525f951e2e954c0195287de6af0a7_1781556443"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -6072,6 +6082,7 @@
                 "capabilities": {
                     "hasLiveSubscription": false
                 },
+                "live_localization_trial_expires_on": null,
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -6376,6 +6387,7 @@
                     "capabilities": {
                         "hasLiveSubscription": false
                     },
+                    "live_localization_trial_expires_on": null,
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -7052,7 +7064,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "20401c7e7150327fd678fbe8dcd19cc6b56dfbd1357ac6f7dc21b822a4cb55b4_1781542607"
+                        "resource_signature": "f736c98b5f6afacb79a14bfa6c2f15873b0da973a9f92b53a0115ec3cf57fb85_1781556444"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -7201,6 +7213,7 @@
                 "capabilities": {
                     "hasLiveSubscription": false
                 },
+                "live_localization_trial_expires_on": null,
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -7505,6 +7518,7 @@
                     "capabilities": {
                         "hasLiveSubscription": false
                     },
+                    "live_localization_trial_expires_on": null,
                     "location": "",
                     "gender": "m",
                     "bio": null,
@@ -8176,7 +8190,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "fbe91bffa3defa445c2225099860f3ab59e00452f5b8fa00249c5a217316e674_1781542607"
+                        "resource_signature": "eb5885a221d62924d229eb79181b2153fda2f175a0079addcba04013b6d7e3f2_1781556444"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
@@ -8325,6 +8339,7 @@
                 "capabilities": {
                     "hasLiveSubscription": false
                 },
+                "live_localization_trial_expires_on": null,
                 "location": "",
                 "gender": "m",
                 "bio": null,
@@ -8629,6 +8644,7 @@
                     "capabilities": {
                         "hasLiveSubscription": false
                     },
+                    "live_localization_trial_expires_on": null,
                     "location": "",
                     "gender": "m",
                     "bio": null,
