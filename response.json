@@ -66,6 +66,8 @@
                     "portrait": "show"
                 },
                 "end_screen": [],
+                "muted": false,
+                "autoplay": false,
                 "playbar": true,
                 "quality_selector": null,
                 "pip": true,
@@ -97,7 +99,7 @@
                 "speed": true
             },
             "created_time": "2026-05-15T03:48:52+00:00",
-            "modified_time": "2026-07-06T02:49:09+00:00",
+            "modified_time": "2026-07-06T13:25:02+00:00",
             "release_time": "2026-05-15T03:48:52+00:00",
             "content_rating": [
                 "safe"
@@ -166,7 +168,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 243
+                "plays": 246
             },
             "categories": [],
             "uploader": {
@@ -278,7 +280,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "43ccf2a68ef09c02b1fd06bc796b7419ebfdaef56be3efc76b7308921e028d7c_1783331796"
+                        "resource_signature": "3860142e55a3b47ee44aa26c5be966d93375b1bc45dd883c161632e3e492d91d_1783349915"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -1195,6 +1197,8 @@
                     "portrait": "show"
                 },
                 "end_screen": [],
+                "muted": false,
+                "autoplay": false,
                 "playbar": true,
                 "quality_selector": null,
                 "pip": true,
@@ -1226,7 +1230,7 @@
                 "speed": true
             },
             "created_time": "2026-05-15T03:45:09+00:00",
-            "modified_time": "2026-07-06T06:50:07+00:00",
+            "modified_time": "2026-07-06T13:08:30+00:00",
             "release_time": "2026-05-15T03:45:09+00:00",
             "content_rating": [
                 "safe"
@@ -1295,7 +1299,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 271
+                "plays": 273
             },
             "categories": [],
             "uploader": {
@@ -1407,7 +1411,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "54bbc0742036d3b36e025e5fc9016e1f56bb35fa4b5cf23828a7002c1541a651_1783331796"
+                        "resource_signature": "2d9a9d5c3f70fa79dc828c0b71db310123c7d0832bd84e4dc4e220c354170217_1783349915"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -2324,6 +2328,8 @@
                     "portrait": "show"
                 },
                 "end_screen": [],
+                "muted": false,
+                "autoplay": false,
                 "playbar": true,
                 "quality_selector": null,
                 "pip": true,
@@ -2536,7 +2542,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "da7a09e7cfb3bc72467b70d94f8422e9a3b08c1e4f8f8858d692100c53e6bee1_1783331796"
+                        "resource_signature": "db191505eeeef9046521c0bd98cc672b4a2f33b2667ae9da248643a7acc5de27_1783349915"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -3453,6 +3459,8 @@
                     "portrait": "show"
                 },
                 "end_screen": [],
+                "muted": false,
+                "autoplay": false,
                 "playbar": true,
                 "quality_selector": null,
                 "pip": true,
@@ -3484,7 +3492,7 @@
                 "speed": true
             },
             "created_time": "2026-04-15T07:49:28+00:00",
-            "modified_time": "2026-07-06T06:46:03+00:00",
+            "modified_time": "2026-07-06T13:33:28+00:00",
             "release_time": "2026-04-15T07:49:28+00:00",
             "content_rating": [
                 "safe"
@@ -3553,7 +3561,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 395
+                "plays": 399
             },
             "categories": [],
             "uploader": {
@@ -3665,7 +3673,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3164a66fab2f095ccba7d3aa682fb90616d4b3701ab1ecf1b1e57c7edab1a694_1783331797"
+                        "resource_signature": "513a4e296a45b4146a194072d41f3f028c66f8d235e9ca26d9ebfa6727d5c79b_1783349915"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -4582,6 +4590,8 @@
                     "portrait": "show"
                 },
                 "end_screen": [],
+                "muted": false,
+                "autoplay": false,
                 "playbar": true,
                 "quality_selector": null,
                 "pip": true,
@@ -4613,7 +4623,7 @@
                 "speed": true
             },
             "created_time": "2025-10-09T22:01:19+00:00",
-            "modified_time": "2026-07-06T06:55:00+00:00",
+            "modified_time": "2026-07-06T13:36:32+00:00",
             "release_time": "2025-10-09T22:01:19+00:00",
             "content_rating": [
                 "safe"
@@ -4682,7 +4692,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 655
+                "plays": 657
             },
             "categories": [],
             "uploader": {
@@ -4794,7 +4804,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f2ce7cf087b1d5812de7708afc335607efc9ad0db2277ddbd9370dd14ae92640_1783331797"
+                        "resource_signature": "b75ecbe6272904a1cf3ff1804d633efba8f4dc9aceb37b84eae24730574f7d29_1783349915"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -5711,6 +5721,8 @@
                     "portrait": "show"
                 },
                 "end_screen": [],
+                "muted": false,
+                "autoplay": false,
                 "playbar": true,
                 "quality_selector": null,
                 "pip": true,
@@ -5742,7 +5754,7 @@
                 "speed": true
             },
             "created_time": "2025-10-09T01:50:18+00:00",
-            "modified_time": "2026-07-06T06:29:51+00:00",
+            "modified_time": "2026-07-06T12:52:42+00:00",
             "release_time": "2025-10-09T01:50:18+00:00",
             "content_rating": [
                 "safe"
@@ -5811,7 +5823,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 669
+                "plays": 671
             },
             "categories": [],
             "uploader": {
@@ -5923,7 +5935,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b8ace33c67514cfd58fcf71a838c0b9c55139139555b3b5cff34587f769d1b97_1783331797"
+                        "resource_signature": "cef5d40e40ca67aa126818d16f36f65fab5473d13ae6160b3dfbc2b3ebb59535_1783349915"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -6840,6 +6852,8 @@
                     "portrait": "show"
                 },
                 "end_screen": [],
+                "muted": false,
+                "autoplay": false,
                 "playbar": true,
                 "quality_selector": null,
                 "pip": true,
@@ -7052,7 +7066,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3d5ba1377c6b738dbe149980884934ef4391f6a3cc406c62d3b2ed05aee5a1f4_1783331797"
+                        "resource_signature": "54740bd1da34f6f2575d2707b460f5eb9baa9e7c55ae68e65a26f12161bedd28_1783349915"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -7969,6 +7983,8 @@
                     "portrait": "show"
                 },
                 "end_screen": [],
+                "muted": false,
+                "autoplay": false,
                 "playbar": true,
                 "quality_selector": null,
                 "pip": true,
@@ -8176,7 +8192,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c577bc951ae3ec0bfc700c7d42a8c5342ca36e342a6014af0ae9968b97ef9806_1783331797"
+                        "resource_signature": "38c01d724e0c46c322ff60e7b9435ccc71ca26989290978070ab79a9171e7ea7_1783349915"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
