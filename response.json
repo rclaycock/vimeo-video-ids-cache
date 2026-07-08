@@ -94,6 +94,7 @@
                 "transcript": true,
                 "skipping_forward": true,
                 "ask_ai": false,
+                "context_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
@@ -280,7 +281,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c8aae26b2e7b1b7cd97c320e6eacf34ecbaa27b2f33983f39a3483d77df0e55f_1783517445"
+                        "resource_signature": "96394c3bb0f79635565044e09c5e7ae46fd03498f5de2460c7d5f87527755a57_1783537680"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -1225,6 +1226,7 @@
                 "transcript": true,
                 "skipping_forward": true,
                 "ask_ai": false,
+                "context_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
@@ -1411,7 +1413,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a43c746c7d5805ba8b5264fbfbe3b0d1932831878a72bdce07f65e346730c9f7_1783517445"
+                        "resource_signature": "22255f4eedb5a8522f5b8c9bfb7ff5d5d4523450be90a245d4d92048265ca56c_1783537680"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -2356,6 +2358,7 @@
                 "transcript": true,
                 "skipping_forward": true,
                 "ask_ai": false,
+                "context_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
@@ -2542,7 +2545,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3581b682ddbe987bfd7ed3cc135bd0baa19907f137d356f45e9b05068ff99c8b_1783517445"
+                        "resource_signature": "0d0a9630105f29f2626efb5a8dd299e15123dc495ab1acc3d75dfab0584801d6_1783537680"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -3487,12 +3490,13 @@
                 "transcript": true,
                 "skipping_forward": true,
                 "ask_ai": false,
+                "context_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
             },
             "created_time": "2026-04-15T07:49:28+00:00",
-            "modified_time": "2026-07-08T08:48:21+00:00",
+            "modified_time": "2026-07-08T15:59:48+00:00",
             "release_time": "2026-04-15T07:49:28+00:00",
             "content_rating": [
                 "safe"
@@ -3561,7 +3565,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 419
+                "plays": 420
             },
             "categories": [],
             "uploader": {
@@ -3673,7 +3677,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "78c5c7ea556a1862f4a8e5c3a987a1f68691ebbe21ab97adcb4546b9e2dab356_1783517446"
+                        "resource_signature": "267e8e0c8a6dce1804c84e028c3d002bc96861c609728f74f636c53076c79ddb_1783537680"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -4618,12 +4622,13 @@
                 "transcript": true,
                 "skipping_forward": true,
                 "ask_ai": false,
+                "context_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
             },
             "created_time": "2025-10-09T22:01:19+00:00",
-            "modified_time": "2026-07-08T09:28:21+00:00",
+            "modified_time": "2026-07-08T14:56:41+00:00",
             "release_time": "2025-10-09T22:01:19+00:00",
             "content_rating": [
                 "safe"
@@ -4692,7 +4697,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 673
+                "plays": 674
             },
             "categories": [],
             "uploader": {
@@ -4804,7 +4809,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "40f1b813f12a3cc714b2794e49abd122a009a9e19660d007f2a25787ea64f543_1783517446"
+                        "resource_signature": "fc04568dbfe7a6ed5a793b3f25145d68b3ab730382f13ce6969064eb11050afb_1783537680"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -5749,6 +5754,7 @@
                 "transcript": true,
                 "skipping_forward": true,
                 "ask_ai": false,
+                "context_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
@@ -5935,7 +5941,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "eb816324c075588495d36194f9a725659ab43bc41eade43140abfcc6663e2277_1783517446"
+                        "resource_signature": "da336915fc2012b2a813af502094bb599b7c755ecab3522a2b4c4325767c74a9_1783537680"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -6880,6 +6886,7 @@
                 "transcript": true,
                 "skipping_forward": true,
                 "ask_ai": false,
+                "context_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
@@ -7066,7 +7073,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "96a71ae0b63a750ec21f19c44c7301ac149f6c55d43a7846f1dedb7a3d946002_1783517446"
+                        "resource_signature": "5814f9a5d0fecaa859bb8304c909094f646ec298778fcb7088c0f3b271bde493_1783537680"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -8011,6 +8018,7 @@
                 "transcript": true,
                 "skipping_forward": true,
                 "ask_ai": false,
+                "context_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
@@ -8192,7 +8200,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "93d0abebd7092348908c2532efd623065b08fccf1bb685ce8507af4f69477d5f_1783517446"
+                        "resource_signature": "b2b314e7cd5f826a5f18ab22e38b97fea6f22aae872608800c060b0330fe212c_1783537680"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
