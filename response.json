@@ -95,12 +95,13 @@
                 "skipping_forward": true,
                 "ask_ai": false,
                 "context_menu": true,
+                "cc_track_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
             },
             "created_time": "2026-05-15T03:48:52+00:00",
-            "modified_time": "2026-07-21T11:16:25+00:00",
+            "modified_time": "2026-07-21T16:59:33+00:00",
             "release_time": "2026-05-15T03:48:52+00:00",
             "content_rating": [
                 "safe"
@@ -169,7 +170,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 340
+                "plays": 342
             },
             "categories": [],
             "uploader": {
@@ -281,7 +282,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7b4c1fd73627ded9d8cbf642f8bbefec38b2c1e1e1b32242976f55e6643c9524_1784639811"
+                        "resource_signature": "a205f32df8f966f1081ae3d56b9f0e6754854c69fd41b03b6e2fdb88fa31d934_1784660736"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -1227,12 +1228,13 @@
                 "skipping_forward": true,
                 "ask_ai": false,
                 "context_menu": true,
+                "cc_track_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
             },
             "created_time": "2026-05-15T03:45:09+00:00",
-            "modified_time": "2026-07-21T11:11:00+00:00",
+            "modified_time": "2026-07-21T17:28:35+00:00",
             "release_time": "2026-05-15T03:45:09+00:00",
             "content_rating": [
                 "safe"
@@ -1301,7 +1303,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 368
+                "plays": 370
             },
             "categories": [],
             "uploader": {
@@ -1413,7 +1415,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "6356fb5ac7977e448ce06c25707c77d73e0b1ab23b6c68c59b42fa317e73f6a9_1784639811"
+                        "resource_signature": "62969f56c60098068a3aef33aaffc2167519a872c7411d35a100ed12a1c6aafb_1784660736"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -2359,6 +2361,7 @@
                 "skipping_forward": true,
                 "ask_ai": false,
                 "context_menu": true,
+                "cc_track_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
@@ -2545,7 +2548,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "2d1af5eb275222af11d016b470f6ae102ecc4d1f96cfb122b22984f9d3097d21_1784639811"
+                        "resource_signature": "14281f227b1f86d59ca36e64bf5e886dd8c566d91e92cbcc9fc088dec026985b_1784660736"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -3491,12 +3494,13 @@
                 "skipping_forward": true,
                 "ask_ai": false,
                 "context_menu": true,
+                "cc_track_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
             },
             "created_time": "2026-04-15T07:49:28+00:00",
-            "modified_time": "2026-07-21T10:46:24+00:00",
+            "modified_time": "2026-07-21T17:40:07+00:00",
             "release_time": "2026-04-15T07:49:28+00:00",
             "content_rating": [
                 "safe"
@@ -3565,7 +3569,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 494
+                "plays": 495
             },
             "categories": [],
             "uploader": {
@@ -3677,7 +3681,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "18d1ea3c21f4ea5b65577ab82ac47a49d85c3e3191504b92b0a33e0be785874e_1784639811"
+                        "resource_signature": "e14c514f586c67014c17b57b0e384804b0f6d41574b219a222599c235a0872a6_1784660736"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -4623,12 +4627,13 @@
                 "skipping_forward": true,
                 "ask_ai": false,
                 "context_menu": true,
+                "cc_track_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
             },
             "created_time": "2025-10-09T22:01:19+00:00",
-            "modified_time": "2026-07-21T10:49:33+00:00",
+            "modified_time": "2026-07-21T17:43:13+00:00",
             "release_time": "2025-10-09T22:01:19+00:00",
             "content_rating": [
                 "safe"
@@ -4697,7 +4702,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 737
+                "plays": 738
             },
             "categories": [],
             "uploader": {
@@ -4809,7 +4814,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b5a5d7ed72626e715e2d02c4ec2c84b83db189dd6c5e83b8be98dec15d6108cf_1784639811"
+                        "resource_signature": "c5cda8f41d2a53e91467d9fd3f749ebab082eccaa1ea3916d06ae1bfc26ec89c_1784660736"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -5755,12 +5760,13 @@
                 "skipping_forward": true,
                 "ask_ai": false,
                 "context_menu": true,
+                "cc_track_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
             },
             "created_time": "2025-10-09T01:50:18+00:00",
-            "modified_time": "2026-07-21T10:46:06+00:00",
+            "modified_time": "2026-07-21T17:38:23+00:00",
             "release_time": "2025-10-09T01:50:18+00:00",
             "content_rating": [
                 "safe"
@@ -5829,7 +5835,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 749
+                "plays": 750
             },
             "categories": [],
             "uploader": {
@@ -5941,7 +5947,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "1b9601a644b594bd6fbe696688f76c591e873aef5dc3e9b44e62882b860c45d5_1784639811"
+                        "resource_signature": "8876cd86c062df6a5d5c29bf6946567df1ba8680ff11d340458fd136bfb35219_1784660736"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -6887,6 +6893,7 @@
                 "skipping_forward": true,
                 "ask_ai": false,
                 "context_menu": true,
+                "cc_track_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
@@ -7073,7 +7080,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "1797aa25566481669679330db980a7a7ee300989de947e2931ba74ffba64be89_1784639811"
+                        "resource_signature": "4fbd9863d5aeeea3caff5f839a84f3bbe505edac67781cb35f27fecdd102d166_1784660736"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -8019,6 +8026,7 @@
                 "skipping_forward": true,
                 "ask_ai": false,
                 "context_menu": true,
+                "cc_track_menu": true,
                 "uri": null,
                 "email_capture_form": [],
                 "speed": true
@@ -8200,7 +8208,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a9c957e6715bb30a072b04ed9518aa124a1968f157ebe148cac69467ecaab2fe_1784639811"
+                        "resource_signature": "c36d6d76eefc282ffad462f9fb26bb902e4fbd24ed5c6be1f32d595617a89e2b_1784660736"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
