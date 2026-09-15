@@ -113,6 +113,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -282,7 +283,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4701d5efd09f365715d7c2fdcdd2e7c6be1cfe86e6c515aee5b05b16a3828455_1789438751"
+                        "resource_signature": "9d19bcaaafd16a9dbc6e5c80bb3abcd661f2356d8ad87b413eeef336b533789a_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1221373214/albums",
@@ -1246,6 +1247,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -1415,7 +1417,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "9bb2fdaa0794c0b11a1238651ed0b22508d0ca98f4a0e7a5eeb697a85a0ce6f6_1789438751"
+                        "resource_signature": "fc47fb9f03424152c1aebe54b0b9f78c16d655bb678a1b6cf19b277df607c07e_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1221373101/albums",
@@ -2379,6 +2381,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -2548,7 +2551,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d60cd18b8cf7c93df1f453401b85c19fa7b5cdcb5a74a32bede01ccd08864b39_1789438751"
+                        "resource_signature": "70ecb9975883d88d9b2679c009ae5dc377be348630bfd230bad2b975d8772b1b_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1221372149/albums",
@@ -3512,6 +3515,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -3681,7 +3685,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "59b90030890d556a12a9d5d7e705af6c9e7e46a4709f1170c39e7b94a6934970_1789438751"
+                        "resource_signature": "fb525cbb8c6b1b12719c06be007de90c4fdded1200ba4f8abc97e4e61cde7286_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -4645,6 +4649,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -4814,7 +4819,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d6e48f92fc929e406bf14c7346edb2c38e125cbe08e3acbbbfb8030bcca6d546_1789438751"
+                        "resource_signature": "0c038a22573894e79a7e4b27c7e8917f779e80fb00b533f0bb2932827fdd085d_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -5778,6 +5783,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -5947,7 +5953,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8dc1dc63f02cb5ca31bf9dbc9e8f7ac3ab32453bffd761ecc22f0887a187cf59_1789438751"
+                        "resource_signature": "77913e5e0f33b4faa2ce55557fba6e229f724fe81b2844c00bb9501b06d439bc_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -6899,7 +6905,7 @@
                 "speed": true
             },
             "created_time": "2026-04-15T07:49:28+00:00",
-            "modified_time": "2026-09-14T15:07:22+00:00",
+            "modified_time": "2026-09-15T04:29:57+00:00",
             "release_time": "2026-04-15T07:49:28+00:00",
             "content_rating": [
                 "safe"
@@ -6911,6 +6917,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -6968,7 +6975,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 649
+                "plays": 650
             },
             "categories": [],
             "uploader": {
@@ -7080,7 +7087,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "1396cbdc639e153cb87fe0fb29b467e63ee7f8ffed246353a82af613ac24d19e_1789438751"
+                        "resource_signature": "472c2b32d77b1ee47b1c5c9471c15816b9827336e3cabf9479f74de18863b165_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -8044,6 +8051,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -8213,7 +8221,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "5c96908006fcb76eda683d70ea7fc1b2ae0677cce5033164e570fcc8cdb3851e_1789438751"
+                        "resource_signature": "25a00dada35bd8baaeb7ce8a2daeb6712ac32feff673de0fbe5fbb0ec7d84cb4_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -9177,6 +9185,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -9346,7 +9355,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e75422eaee8a69f695c7ccdb0099202cbd0a2ee18771906c137273987e16175c_1789438751"
+                        "resource_signature": "411d0e794ac461725e0ccaca1cd7d4d8db01fa8d526750f1921e8f8517508cad_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -10310,6 +10319,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -10479,7 +10489,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "64d75034895ec56626c5d35f97f90339a7bf5f8a47e26c59469ef9d7a1ff0564_1789438751"
+                        "resource_signature": "f1d32e6b53a2b553c0a249c8a0b8129ffd303a2c904c3640103369d3571d9e68_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -11443,6 +11453,7 @@
                 "view": "anybody",
                 "embed": "public",
                 "download": true,
+                "offline_viewing": true,
                 "add": true,
                 "comments": "anybody"
             },
@@ -11607,7 +11618,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "6f6d9ac6f24577a7a27bf267e0d0127a2f09477ace4c043de7d0b505ba4ba7f1_1789438751"
+                        "resource_signature": "7b4a01c38a9ebbe6485ceedf3e547969f214c7403b08ce4e4b613a28b06fae4d_1789468903"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
