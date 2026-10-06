@@ -283,7 +283,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d9024f15af3738faea73c615a8dce9c49276afa795aaf07a417d3c0714f7ceac_1791289557"
+                        "resource_signature": "cdb5ba535ad648908b7ebaac17641aeb2c5641d2bfec9829c04142580d775c86_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1221373214/albums",
@@ -1237,7 +1237,7 @@
                 "speed": true
             },
             "created_time": "2026-08-26T06:05:24+00:00",
-            "modified_time": "2026-10-02T10:12:43+00:00",
+            "modified_time": "2026-10-06T20:12:09+00:00",
             "release_time": "2026-08-26T06:05:24+00:00",
             "content_rating": [
                 "safe"
@@ -1307,7 +1307,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 20
+                "plays": 21
             },
             "categories": [],
             "uploader": {
@@ -1419,7 +1419,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "cd2abd9bd91823a1aba02de8b75fc890b82f9d23380b6cad0f52e0c34eb8cd82_1791289557"
+                        "resource_signature": "39f6ba0675723c4bebdc4ae80fa18bf8adcac7302c1d41f8994a252b7f1ce9cb_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1221373101/albums",
@@ -2373,7 +2373,7 @@
                 "speed": true
             },
             "created_time": "2026-08-26T06:00:22+00:00",
-            "modified_time": "2026-10-06T06:43:53+00:00",
+            "modified_time": "2026-10-06T18:04:38+00:00",
             "release_time": "2026-08-26T06:00:22+00:00",
             "content_rating": [
                 "safe"
@@ -2443,7 +2443,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 63
+                "plays": 65
             },
             "categories": [],
             "uploader": {
@@ -2555,7 +2555,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "2806768f012a56821eae485cec86b7fe951d31dac46c891a3d961c40c6d6a0e6_1791289557"
+                        "resource_signature": "cefb650b81728c1602ab50b29bb6443f9c9594773013eb852196bfecfde97b11_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1221372149/albums",
@@ -3425,11 +3425,11 @@
             "link": "https://vimeo.com/1192463991",
             "player_embed_url": "https://player.vimeo.com/video/1192463991?h=93e8c6b513",
             "duration": 32,
-            "width": 1920,
+            "width": 400,
             "language": "en",
-            "height": 1080,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1192463991?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"16-9-Winter-Skin-Testimonial-Paid-NZ\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1192463991?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"16-9-Winter-Skin-Testimonial-Paid-NZ\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -3509,7 +3509,7 @@
                 "speed": true
             },
             "created_time": "2026-05-15T03:48:52+00:00",
-            "modified_time": "2026-10-05T03:16:08+00:00",
+            "modified_time": "2026-10-06T19:30:33+00:00",
             "release_time": "2026-05-15T03:48:52+00:00",
             "content_rating": [
                 "safe"
@@ -3579,7 +3579,7 @@
             },
             "tags": [],
             "stats": {
-                "plays": 510
+                "plays": 511
             },
             "categories": [],
             "uploader": {
@@ -3691,7 +3691,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "35d3038775bfdd1bc2d084a1aa33ca144cc976bcdf6930caefeeab8bb2cbc5ca_1791289557"
+                        "resource_signature": "d0845c0f7479d258a819ce5d91c47390937499f7964364e0c2df013014e017ee_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -4551,7 +4551,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1192463536",
@@ -4827,7 +4827,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "517034148140a2d58645ddf3267833d99fbf61785da551eff3932120496b60aa_1791289557"
+                        "resource_signature": "7d2df2b4f431067eae462075dfd8a9ff38fcef3fb698fe5fd97c8819d526127b_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -5963,7 +5963,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a563c6ec6149530f3b85c023668f8ec42255d65602cdd51ce59eab066a04d4fa_1791289557"
+                        "resource_signature": "83c6a3e400b32db28c5ecea9ae5fdf2f36dc8f495a4793d3cc40d25fe289f520_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -7099,7 +7099,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4a8fe3ff3dcd7441e6f744f0b0594ebb3c94824bd2812c346a68b9c1eafd3920_1791289558"
+                        "resource_signature": "fb1b387db2738b759352209c35d67d5c104fa5e34a9e85949176fa11a950fc06_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -8235,7 +8235,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8ca0e5ba91d88b8c48bc839bc6a9b0346ba1ee9671820793ed3d33cc1d5fd235_1791289558"
+                        "resource_signature": "57499bc80bc3f4ccc662b5d62d83d32aea4b192bcc83d3e4a434ed2ba0ab06d7_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -9371,7 +9371,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "19578a86175572984f4a3b98eb09856bcd69b7b970b1f99a2826539823bece87_1791289558"
+                        "resource_signature": "c0314d577eae4117687da59c7025a98c5ed575530be75f82a5ca4dd826ea8ee9_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -10507,7 +10507,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "82de14b79dc35b36df6acccf716b51ce011865141f7cf0860e5e4ae7819341fe_1791289558"
+                        "resource_signature": "fb168f568295f523f6b2a8deb2991d0993a09ff77653ba1e2af77885c6f2a3f3_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -11377,11 +11377,11 @@
             "link": "https://vimeo.com/1125725801",
             "player_embed_url": "https://player.vimeo.com/video/1125725801?h=fff469f926",
             "duration": 11,
-            "width": 3840,
+            "width": 400,
             "language": null,
-            "height": 2160,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1125725801?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"3840\" height=\"2160\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"1759973202821_Phase_02_Campaign_01-W2\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1125725801?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"1759973202821_Phase_02_Campaign_01-W2\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -11638,7 +11638,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a8da9d5d7a023519368865be49b6609270873b9c14c3d87abd1103f05161b5dd_1791289558"
+                        "resource_signature": "16b1d3816afec3afb4a4f96fee20a9a68db05bbfbad95812b0edbdc7e1c0e3c8_1791324174"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
@@ -12498,7 +12498,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         }
     ]
 }
