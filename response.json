@@ -283,7 +283,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "f17bbe4a39e7b1b36885fd9cc4db8551bab586e070ddf1cc1b3da43dd1ea685f_1791342658"
+                        "resource_signature": "4436980676998327c06b0e2cad4763a2c778806b99d316dd99c5d901f907aee3_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1221373214/albums",
@@ -1419,7 +1419,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "95b9899ac2b3bba23997254c1f9e19993c44fe2b189533faec171fdcffe5bdfb_1791342658"
+                        "resource_signature": "9403c047ba17e52dc8551c0916c7278c6b3fd6ebb15a2d0e4828d2609258e86b_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1221373101/albums",
@@ -2555,7 +2555,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d6f15526e4e80c2b07884bbb66da340a1d4488a58c8c67910ed432daf31430f9_1791342658"
+                        "resource_signature": "6991b6c31716d242e0115496381fbeeebfd96e35fed67125279991c3d199e080_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1221372149/albums",
@@ -3691,7 +3691,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "834d97fb8c0c4e7304a3b24e944980a972905386d18bd49f0f5e957128e2d0ff_1791342658"
+                        "resource_signature": "1e4816d5f2fa4000adb6bcd3934aadf882a4ba091c313634ef3b79a603124740_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -4561,11 +4561,11 @@
             "link": "https://vimeo.com/1192463536",
             "player_embed_url": "https://player.vimeo.com/video/1192463536?h=8f937df39d",
             "duration": 28,
-            "width": 1920,
+            "width": 400,
             "language": null,
-            "height": 1080,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1192463536?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"HERO-16-9-PAID-FINAL-AUD\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1192463536?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"HERO-16-9-PAID-FINAL-AUD\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -4827,7 +4827,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "6033b7d0fa6bb49cb066f6760f9e5d3cc77425ac35307eac3bbe984ed18f358a_1791342658"
+                        "resource_signature": "b00bac53b5c5f8d2097aabe96d6e605ae567cc35713b5172fa84a1a6c492c1dd_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -5687,7 +5687,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1192414150",
@@ -5963,7 +5963,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "dc49db392f792dc0e628a10cfb59a7d59bc1664aa3f5b494723a511978f98012_1791342658"
+                        "resource_signature": "cdb2e8a16f78ba42146c43788f9fa9b1685c43c5a7ffd5c5d5f0e47cc3e6b6f7_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -7099,7 +7099,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "13b5aa987dfe4867ec7bcef813e79947ec8c23e90edfe1a91c91f536073e2221_1791342658"
+                        "resource_signature": "aec185e85f6df34f7da03e7a9a8fc626dd8f582472122205f910cf1675850832_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -8235,7 +8235,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "36a6dc671ddf247fc038ddb36a63b5e0d3306fd014abc49ab6943d18d844a88f_1791342658"
+                        "resource_signature": "b6756de1ccad9e6d9fe74a895ed68030bda2f9223b5ed51b7220be16e6524d5c_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -9371,7 +9371,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "ae604ebc656128fcfa0879e6fcb56a8bacb9a039ce856e3322b3d21e137430c3_1791342658"
+                        "resource_signature": "e721794798528013e668644bed0f34aa70194973947ab511aa366202417ebab9_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -10507,7 +10507,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e6f87328a54b2d3b440b59a3662c7f86d82fcbce9c2334040e9b7eef8e7950f8_1791342658"
+                        "resource_signature": "8aa21aee66fed1b9077dd3aa1b6ce7fcad08afd9332151855bb2c3f08ef80f7b_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -11638,7 +11638,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "2bb0acca3c7dae98ffc532353e70e620145027fc70eb1fd3b8fed7dd68b90ed4_1791342658"
+                        "resource_signature": "66106c8c9feb4b214ad1be8c609aab6386a88e3643bf8f1259fb13b3b878632c_1791375484"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
