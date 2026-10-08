@@ -17,11 +17,11 @@
             "link": "https://vimeo.com/1221373214",
             "player_embed_url": "https://player.vimeo.com/video/1221373214?h=6fa686ac75",
             "duration": 16,
-            "width": 1080,
+            "width": 400,
             "language": "en",
-            "height": 1350,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1221373214?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1080\" height=\"1350\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"R001_Checkmate-4x5_LOGO\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1221373214?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"R001_Checkmate-4x5_LOGO\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -283,7 +283,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "28ee72fef0fa6d14c7dd1f3b929680865d7885d851fdd60433b1e47da2135c1b_1791412074"
+                        "resource_signature": "7331aed76b2e699c7008616ac910d328809bc8297fecb35ad167131ee2daa7a9_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1221373214/albums",
@@ -1143,7 +1143,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1221373101",
@@ -1419,7 +1419,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "208acfa5e4a8b23dbe4f2a06686f4aba4e75de165286d4ad8c3dab65b769234d_1791412074"
+                        "resource_signature": "3df77014a39b9dbc1b23853b00d19be18dc4250fa283f297b82ae85e5eb8eab2_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1221373101/albums",
@@ -2555,7 +2555,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "e2f05bbddba9ee25e7b00f8ade031716742b367939ea5a3a053a5bd1c4cdde8f_1791412074"
+                        "resource_signature": "8c839672e38332effe059694723ac479aa85583adc9cd7faffae934539c1363a_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1221372149/albums",
@@ -3425,11 +3425,11 @@
             "link": "https://vimeo.com/1192463991",
             "player_embed_url": "https://player.vimeo.com/video/1192463991?h=93e8c6b513",
             "duration": 32,
-            "width": 1920,
+            "width": 400,
             "language": "en",
-            "height": 1080,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1192463991?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"16-9-Winter-Skin-Testimonial-Paid-NZ\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1192463991?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"16-9-Winter-Skin-Testimonial-Paid-NZ\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -3691,7 +3691,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b51cd4888a4091d720893c2ebf5423ab6fe1a108d17f15fd920e12888af4ccda_1791412074"
+                        "resource_signature": "0d19b77792ec9e30697fd2693249bd67373fc5d851497bf00196ee7fdb7dd02f_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -4551,7 +4551,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1192463536",
@@ -4827,7 +4827,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "9ebff41b0c7309a5a142f5354fd3c658e2be6e11e096069911862ab534f4207e_1791412074"
+                        "resource_signature": "7e113454ca97037194ab93700c4e5f1300cd7d01aec7547424ee04a9173473a1_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -5963,7 +5963,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "4a54da0b655f0f5270f435d127bcf2187852afa8ea04bd3f26a793eb9fd79a94_1791412074"
+                        "resource_signature": "518e8d128cf3cfb0a783acae02d3192b89a8eae7908099222b8be96368fc067a_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -6833,11 +6833,11 @@
             "link": "https://vimeo.com/1183289208",
             "player_embed_url": "https://player.vimeo.com/video/1183289208?h=740fc368b2",
             "duration": 111,
-            "width": 1920,
+            "width": 400,
             "language": null,
-            "height": 1080,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1183289208?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2026-02-20-Horizontal\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1183289208?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2026-02-20-Horizontal\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -7099,7 +7099,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "6f69645c68e32e145b79b1ef04e55cdd0cdb12bc89196502c5b4a0bf930dd9e2_1791412074"
+                        "resource_signature": "5739cab1b90a35fd5bddda835b1f968fa0ac4556bcb3c5f559b4fb06b643f765_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -7959,7 +7959,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1126018746",
@@ -8235,7 +8235,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8a6c75ff94b2e231e53924d3f3ced0a1fd280536fb2fe751fa8f870df6af3378_1791412074"
+                        "resource_signature": "d34d8bacdb00f3ed15d6429ba5144ba025906d379d65327c9e9a5b22de5a4880_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -9371,7 +9371,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "65ed87d62c8f46f2a6003ea7e495d9dea7557611fbe0bc8f0f5f66b22e45e4df_1791412074"
+                        "resource_signature": "7a6d24a94d408813299f49b8bb414ca98264e37cadd580ce21b8dbc5077ebe9a_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -10507,7 +10507,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a722a2b3dea03d7d4bcb47b18e59544a0f4dcc6eae6baac45877ad1d2c1b5c45_1791412074"
+                        "resource_signature": "b08be4ea2355fcca4d2da05355aeb58a17152c9b49d06dc71491cbb95a097e4e_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -11638,7 +11638,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "67a94f9c543ee748d52963a41f589825bb4fb71c0167dd334e99761b6be4e907_1791412074"
+                        "resource_signature": "303b1d9f3305650e911e4d706c7cb241b7e9858f607c2ab1a774f5a590ecfdf3_1791430011"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
