@@ -283,7 +283,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7331aed76b2e699c7008616ac910d328809bc8297fecb35ad167131ee2daa7a9_1791430011"
+                        "resource_signature": "f04d6493cfcc74e3def8268e4bff0eb89f3851bdba654e19234e94f49d808db3_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1221373214/albums",
@@ -1419,7 +1419,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3df77014a39b9dbc1b23853b00d19be18dc4250fa283f297b82ae85e5eb8eab2_1791430011"
+                        "resource_signature": "4ed01719d48d6fd76c8ee3f5ba9a0f34d6395a9c42377968793964a9d32bfad1_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1221373101/albums",
@@ -2289,11 +2289,11 @@
             "link": "https://vimeo.com/1221372149",
             "player_embed_url": "https://player.vimeo.com/video/1221372149?h=cdcd223e49",
             "duration": 19,
-            "width": 1920,
+            "width": 400,
             "language": "en",
-            "height": 1080,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1221372149?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"R001_Hero_16x9\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1221372149?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"R001_Hero_16x9\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -2555,7 +2555,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8c839672e38332effe059694723ac479aa85583adc9cd7faffae934539c1363a_1791430011"
+                        "resource_signature": "7c6f8044f4aa49457be60f592be77010af2c9dc0ea8ab882bbc7f0bcf96c080a_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1221372149/albums",
@@ -3415,7 +3415,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1192463991",
@@ -3691,7 +3691,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "0d19b77792ec9e30697fd2693249bd67373fc5d851497bf00196ee7fdb7dd02f_1791430011"
+                        "resource_signature": "d52081b3b5d554f4e7af690dda05049df6676e80768c59ad1d42deba57916236_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -4827,7 +4827,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7e113454ca97037194ab93700c4e5f1300cd7d01aec7547424ee04a9173473a1_1791430011"
+                        "resource_signature": "d6db6a0d83b7dec3863c9314ad0f8e801beb0fc6265e738fddbf935c28313886_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -5963,7 +5963,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "518e8d128cf3cfb0a783acae02d3192b89a8eae7908099222b8be96368fc067a_1791430011"
+                        "resource_signature": "3fcad7513281f27be08ee870514df78bbd8091143009093283b1c09c7b0fc140_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -6833,11 +6833,11 @@
             "link": "https://vimeo.com/1183289208",
             "player_embed_url": "https://player.vimeo.com/video/1183289208?h=740fc368b2",
             "duration": 111,
-            "width": 400,
+            "width": 1920,
             "language": null,
-            "height": 300,
+            "height": 1080,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1183289208?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2026-02-20-Horizontal\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1183289208?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"2026-02-20-Horizontal\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -7099,7 +7099,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "5739cab1b90a35fd5bddda835b1f968fa0ac4556bcb3c5f559b4fb06b643f765_1791430011"
+                        "resource_signature": "3a0080e59d6d349618f17c11261dcf32024a5ea0fec55b915e3bf395d34cbee8_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -7959,7 +7959,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": false
+            "has_audio": true
         },
         {
             "uri": "/videos/1126018746",
@@ -8235,7 +8235,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "d34d8bacdb00f3ed15d6429ba5144ba025906d379d65327c9e9a5b22de5a4880_1791430011"
+                        "resource_signature": "31cff9bf644773c2270a87e9183d57dd10d71ce608696c72371857fe08345206_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -9371,7 +9371,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "7a6d24a94d408813299f49b8bb414ca98264e37cadd580ce21b8dbc5077ebe9a_1791430011"
+                        "resource_signature": "444643274822b3d7079681b3c6f8215357d2f34f38808f43cbcb03e0fd5a795b_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -10241,11 +10241,11 @@
             "link": "https://vimeo.com/1125729052",
             "player_embed_url": "https://player.vimeo.com/video/1125729052?h=7ab932e0fe",
             "duration": 14,
-            "width": 3840,
+            "width": 400,
             "language": null,
-            "height": 2160,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1125729052?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"3840\" height=\"2160\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"1759974534807_Phase_02_Campaign_02-W2\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1125729052?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"1759974534807_Phase_02_Campaign_02-W2\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -10507,7 +10507,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "b08be4ea2355fcca4d2da05355aeb58a17152c9b49d06dc71491cbb95a097e4e_1791430011"
+                        "resource_signature": "5969dc850adf84a0d31165b4390e29a8f0b2561f232ce1ddbe8a40a85e64ab3f_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -11367,7 +11367,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1125725801",
@@ -11638,7 +11638,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "303b1d9f3305650e911e4d706c7cb241b7e9858f607c2ab1a774f5a590ecfdf3_1791430011"
+                        "resource_signature": "7e8e7d726e188e2e5a1ea9f7ddd5e49064d87e8f26b2f48fc0d799a7fd82a42a_1791462500"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
