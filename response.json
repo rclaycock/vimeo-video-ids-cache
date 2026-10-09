@@ -17,11 +17,11 @@
             "link": "https://vimeo.com/1221373214",
             "player_embed_url": "https://player.vimeo.com/video/1221373214?h=6fa686ac75",
             "duration": 16,
-            "width": 1080,
+            "width": 400,
             "language": "en",
-            "height": 1350,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1221373214?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1080\" height=\"1350\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"R001_Checkmate-4x5_LOGO\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1221373214?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"R001_Checkmate-4x5_LOGO\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -283,7 +283,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "3a5839dd794e70cae75fb3ad50e402994b0a251146ed4bf775f66d03521050e5_1791499255"
+                        "resource_signature": "a272c18309cb185691ebfe0dbcae6af650a3b3506b6677ac1fc7b5275fea07ef_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1221373214/albums",
@@ -1143,7 +1143,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1221373101",
@@ -1153,11 +1153,11 @@
             "link": "https://vimeo.com/1221373101",
             "player_embed_url": "https://player.vimeo.com/video/1221373101?h=b721b5cb91",
             "duration": 9,
-            "width": 1080,
+            "width": 400,
             "language": "en",
-            "height": 1350,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1221373101?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1080\" height=\"1350\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"R001_Billiard-4x5_LOGO\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1221373101?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"R001_Billiard-4x5_LOGO\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -1419,7 +1419,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "042da2853f991f51c9ff4a3d24d103e5b04d075c4186e4461322197b9595a3a6_1791499255"
+                        "resource_signature": "ce5911fc20ea10591e20c01038c0ee7200e7b1519c9639582693b2b8240132ae_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1221373101/albums",
@@ -2279,7 +2279,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1221372149",
@@ -2289,11 +2289,11 @@
             "link": "https://vimeo.com/1221372149",
             "player_embed_url": "https://player.vimeo.com/video/1221372149?h=cdcd223e49",
             "duration": 19,
-            "width": 1920,
+            "width": 400,
             "language": "en",
-            "height": 1080,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1221372149?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"R001_Hero_16x9\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1221372149?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"R001_Hero_16x9\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -2555,7 +2555,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "c8a11950f51a90539e704543e95e74207bfb2bf528386bb74e88bd04691d06fc_1791499255"
+                        "resource_signature": "b3cdee18eae19a3e388da84d9b8ac597a1351f8252e00bbdd0d2c9877da29fa8_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1221372149/albums",
@@ -3415,7 +3415,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1192463991",
@@ -3425,11 +3425,11 @@
             "link": "https://vimeo.com/1192463991",
             "player_embed_url": "https://player.vimeo.com/video/1192463991?h=93e8c6b513",
             "duration": 32,
-            "width": 1920,
+            "width": 400,
             "language": "en",
-            "height": 1080,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1192463991?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"16-9-Winter-Skin-Testimonial-Paid-NZ\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1192463991?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"16-9-Winter-Skin-Testimonial-Paid-NZ\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -3691,7 +3691,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "a810c096c24c6058ff7ed368a4090dad8942bcb51957d886feffcc580d0d09d0_1791499255"
+                        "resource_signature": "47544939aa09cf73a6694155eba666f5fe5fa3f3354d6b6716e96f05600384c2_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1192463991/albums",
@@ -4551,7 +4551,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1192463536",
@@ -4827,7 +4827,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "096cd9f1f5980139fe96b34f3be531a53bc645b97735703d70c0c8037ddc0e19_1791499255"
+                        "resource_signature": "452c2677bbdff5f0a09a6a1bd26c891499daec216884fab0b14ee1f79e4c4dc0_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1192463536/albums",
@@ -5697,11 +5697,11 @@
             "link": "https://vimeo.com/1192414150",
             "player_embed_url": "https://player.vimeo.com/video/1192414150?h=8b4cd512de",
             "duration": 59,
-            "width": 1920,
+            "width": 400,
             "language": null,
-            "height": 1080,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1192414150?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"RLP Showreel 2026\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1192414150?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"RLP Showreel 2026\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -5963,7 +5963,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "76c154db02257b94f09e4132f36d2e16071f4bad5120d26134c52eea0baa8900_1791499255"
+                        "resource_signature": "bf5c17218b04cc5ff78835b3ae4e0bf82bc3cfb2388649b8ff392d3f3849b8cb_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1192414150/albums",
@@ -6823,7 +6823,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1183289208",
@@ -7099,7 +7099,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "31843f83b4a2d593fc20de1936c1730b268616e82c5d973cdd8c2a4f726a797a_1791499255"
+                        "resource_signature": "82c2d7a905fc9bd68bca0c8012e10ee4596c51969664a4e6c5475a755c1b49fb_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1183289208/albums",
@@ -7969,11 +7969,11 @@
             "link": "https://vimeo.com/1126018746",
             "player_embed_url": "https://player.vimeo.com/video/1126018746?h=9a9f122598",
             "duration": 14,
-            "width": 3840,
+            "width": 400,
             "language": null,
-            "height": 2160,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1126018746?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"3840\" height=\"2160\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Typo Serious About Silly Season Campaign 01\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1126018746?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Typo Serious About Silly Season Campaign 01\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -8235,7 +8235,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "5edc87982eeba4b92ae3cb3270bea9e91296d2b9a0ddc70237835f1d610d0c01_1791499255"
+                        "resource_signature": "f6b5a4c7f63d5bc015311633c35878528cc966333fe63b59d767a9c23dc7f850_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1126018746/albums",
@@ -9095,7 +9095,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1125729260",
@@ -9105,11 +9105,11 @@
             "link": "https://vimeo.com/1125729260",
             "player_embed_url": "https://player.vimeo.com/video/1125729260?h=4366275760",
             "duration": 47,
-            "width": 400,
+            "width": 3840,
             "language": null,
-            "height": 300,
+            "height": 2160,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1125729260?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"1759974617598_Phase_04_Campaign_01-W2\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1125729260?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"3840\" height=\"2160\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"1759974617598_Phase_04_Campaign_01-W2\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -9371,7 +9371,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "fbc874012d6cdfdab1157b0ef1c504cf138be1ac2d07325be6cef49e8fcb52b7_1791499255"
+                        "resource_signature": "72f21765d8ea6115c8623b6ac83654ba6816fe96339c273dc0473201516dbd94_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1125729260/albums",
@@ -10231,7 +10231,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": false
+            "has_audio": true
         },
         {
             "uri": "/videos/1125729052",
@@ -10241,11 +10241,11 @@
             "link": "https://vimeo.com/1125729052",
             "player_embed_url": "https://player.vimeo.com/video/1125729052?h=7ab932e0fe",
             "duration": 14,
-            "width": 3840,
+            "width": 400,
             "language": null,
-            "height": 2160,
+            "height": 300,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1125729052?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"3840\" height=\"2160\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"1759974534807_Phase_02_Campaign_02-W2\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1125729052?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"1759974534807_Phase_02_Campaign_02-W2\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -10507,7 +10507,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "905869090e2b3309163fb7ac173f43e2dd8b5f9b0295b2ce9b94ab115d196ac8_1791499255"
+                        "resource_signature": "7b949e284c79049b05c7e739a55f38d69ca7ae2418c931f8643a9ab7ccf277d0_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1125729052/albums",
@@ -11367,7 +11367,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": true
+            "has_audio": false
         },
         {
             "uri": "/videos/1125725801",
@@ -11377,11 +11377,11 @@
             "link": "https://vimeo.com/1125725801",
             "player_embed_url": "https://player.vimeo.com/video/1125725801?h=fff469f926",
             "duration": 11,
-            "width": 400,
+            "width": 3840,
             "language": null,
-            "height": 300,
+            "height": 2160,
             "embed": {
-                "html": "<iframe src=\"https://player.vimeo.com/video/1125725801?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"1759973202821_Phase_02_Campaign_01-W2\"></iframe>",
+                "html": "<iframe src=\"https://player.vimeo.com/video/1125725801?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=293552\" width=\"3840\" height=\"2160\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"1759973202821_Phase_02_Campaign_01-W2\"></iframe>",
                 "badges": {
                     "hdr": false,
                     "live": {
@@ -11638,7 +11638,7 @@
                         "options": [
                             "GET"
                         ],
-                        "resource_signature": "8fe91ca39dadc3ebe10e9ffb81bdf1bd3a2f1114713a19cbd1d1b6d0f4844a9e_1791499255"
+                        "resource_signature": "c67c12b890b6a7951327b3b13266f0162f9feb94bb3c8be484a66ed544f23dae_1791516757"
                     },
                     "albums": {
                         "uri": "/videos/1125725801/albums",
@@ -12498,7 +12498,7 @@
                 "status": "complete"
             },
             "is_playable": true,
-            "has_audio": false
+            "has_audio": true
         }
     ]
 }
